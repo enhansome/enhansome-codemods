@@ -1,0 +1,2446 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "jest-codemods",
+          "description": "Codemods for migrating to Jest .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T08:16:46Z",
+            "owner": "skovhus",
+            "repo": "jest-codemods",
+            "stars": 888
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "5to6-codemod",
+          "description": "A collection of codemods that allow you to transform your js code from ES5 to ES6.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-03T18:55:01Z",
+            "owner": "5to6",
+            "repo": "5to6-codemod",
+            "stars": 301
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "codeshift-community",
+          "description": "Community-owned global registry and documentation hub for codemods. Write & run codemodes, share them with your friends.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-04-18T08:01:44Z",
+            "owner": "hypermod-io",
+            "repo": "hypermod-community",
+            "stars": 150
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "relative-to-alias",
+          "description": "A codemod to do large-scale refactor of your relative path imports to alias.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-03T17:56:07Z",
+            "owner": "s-yadav",
+            "repo": "relative-to-alias",
+            "stars": 135
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "js-transforms",
+          "description": "Some documented codemod experiments to help you learn.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2015-10-22T14:53:55Z",
+            "owner": "jhgg",
+            "repo": "js-transforms",
+            "stars": 102
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aws-sdk-js-codemod",
+          "description": "Codemod scripts to update AWS SDK for JavaScript APIs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-01T02:39:41Z",
+            "owner": "aws",
+            "repo": "aws-sdk-js-codemod",
+            "stars": 88
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "refactoring-codemods",
+          "description": "Refactoring support for JavaScript via jscodeshift codemods.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-05-09T02:32:10Z",
+            "owner": "jurassix",
+            "repo": "refactoring-codemods",
+            "stars": 80
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JamieMason/codemods",
+          "description": "A collection of transforms for use with JSCodeshift.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-09-17T09:58:28Z",
+            "owner": "JamieMason",
+            "repo": "codemods",
+            "stars": 64
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "transform-imports",
+          "description": "Tools that make it easy to codemod imports/requires in your JS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-05-07T14:25:47Z",
+            "owner": "suchipi",
+            "repo": "transform-imports",
+            "stars": 53
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "codemod-imports-sort",
+          "description": "Sort ES6 imports by type.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-05-07T16:37:23Z",
+            "owner": "bfncs",
+            "repo": "codemod-imports-sort",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "coffee-to-es2015-codemod",
+          "description": "A set of JSCodeshift transforms that will help you transform your CoffeeScript codebase to ES2015.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-03-04T14:13:44Z",
+            "owner": "Hacker0x01",
+            "repo": "coffee-to-es2015-codemod",
+            "stars": 37
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "es5-function-to-class-codemod",
+          "description": "Transform ES5 Functions to ES6 Classes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-06-20T18:37:33Z",
+            "owner": "dhruvdutt",
+            "repo": "es5-function-to-class-codemod",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "eslint-transforms",
+          "description": "Codemods for the ESLint ecosystem.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-11T10:49:48Z",
+            "owner": "eslint",
+            "repo": "eslint-transforms",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "async-await-codemod",
+          "description": "Codemod script for migrating promise-based functions to use async/await syntax.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-07T20:41:13Z",
+            "owner": "sgilroy",
+            "repo": "async-await-codemod",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sinon-codemod",
+          "description": "Codemod scripts that update Sinon APIs .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-11-26T06:41:35Z",
+            "owner": "hurrymaplelad",
+            "repo": "sinon-codemod",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "undecorate-codemod",
+          "description": "Transformers experimental ESNext decorators syntax to simple currying.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-12-02T15:29:58Z",
+            "owner": "tizmagik",
+            "repo": "undecorate-codemod",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "optional-chaining-codemod",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-12-15T08:16:24Z",
+            "owner": "NullVoxPopuli",
+            "repo": "optional-chaining-codemod",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "chai-to-assert",
+          "description": "A jscodeshift codemod that transforms from chai to Node assert.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-04-12T06:14:52Z",
+            "owner": "twada",
+            "repo": "chai-to-assert",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "chai-to-jasmine",
+          "description": "A chai to jasmine codemod that includes additional transforms for jest migration.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-05-19T15:55:35Z",
+            "owner": "AlexJuarez",
+            "repo": "chai-to-jasmine",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "js-codemod-import-absolute",
+          "description": "Codemod to replace relative imports with absolute or custom paths.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-11-18T21:17:51Z",
+            "owner": "bluedaniel",
+            "repo": "js-codemod-import-absolute",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jest-expect-codemod",
+          "description": "CodeMods for migrating , , -based test assertions to jest's assertions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-07T09:33:21Z",
+            "owner": "devenbansod",
+            "repo": "jest-expect-codemod",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "expect-js-to-assert",
+          "description": "A jscodeshift codemod that transforms from expect.js to Node assert.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-04-28T10:13:17Z",
+            "owner": "twada",
+            "repo": "expect-js-to-assert",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "immutablejs-eraser-codemod",
+          "description": "A codemod to rescue you from a Immutable.js abuse.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-10-13T09:28:18Z",
+            "owner": "mariosanchez",
+            "repo": "immutablejs-eraser-codemod",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "co-to-async",
+          "description": "Take the step from co.wrap to async/await automagically.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2023-01-09T06:29:46Z",
+            "owner": "albinekb",
+            "repo": "co-to-async",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "webpack-babel-codemod",
+          "description": "Convert anonymous webpack commonjs require statements to es2015 import statements.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-02-27T02:32:20Z",
+            "owner": "agirton",
+            "repo": "webpack-babel-codemod",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "js-codemods",
+          "description": "Some codemod scripts to transform code for good styling.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-04-21T15:12:28Z",
+            "owner": "yangshun",
+            "repo": "js-codemods",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "amd-to-commonjs-codemod",
+          "description": "A codemod to transform amd style includes into commonjs includes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-12-09T21:34:51Z",
+            "owner": "skratchdot",
+            "repo": "amd-to-commonjs-codemod",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "class-props-codemod",
+          "description": "Transform old-style assigned static properties to class static properties.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-01-17T16:49:47Z",
+            "owner": "zertosh",
+            "repo": "class-props-codemod",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "node-dep-codemod",
+          "description": "A collection of JSCodeshift codemod scripts for migrating code that uses deprecated Node.js APIs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-02-18T17:20:30Z",
+            "owner": "joyeecheung",
+            "repo": "node-dep-codemod",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "js-codemod",
+          "description": "Codemod scripts to transform code to next generation JS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-02-06T10:44:10Z",
+            "owner": "cpojer",
+            "repo": "js-codemod",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "flow-comments-codemod",
+          "description": "Convert flowtype syntax to valid JS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-01-03T22:28:56Z",
+            "owner": "escaton",
+            "repo": "flow-comments-codemod",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sort-class-members-codemod",
+          "description": "A codemod for automatically fixing issues reported by eslint-plugin-sort-class-members.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-05-08T12:17:51Z",
+            "owner": "pastelsky",
+            "repo": "sort-class-members-codemod",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nikgraf/js-codemod",
+          "description": "A collection of codemods.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2015-10-13T21:23:03Z",
+            "owner": "nikgraf",
+            "repo": "js-codemod",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "relekang/codemods",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-10-19T06:56:07Z",
+            "owner": "relekang",
+            "repo": "codemods",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vasco3/cuadrante-codemods",
+          "description": "Converts ES6 imports to commonJS requires.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-03-04T20:51:16Z",
+            "owner": "vasco3",
+            "repo": "cuadrante-codemods",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "apitsummit-codemods",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-07-26T12:45:31Z",
+            "owner": "perjansson",
+            "repo": "aptisummit-codemods",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DrewML/codemods",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-07-02T15:02:41Z",
+            "owner": "DrewML",
+            "repo": "codemods",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cleaner-codemods",
+          "description": "Simple codemods to destructure prop types.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-11-08T11:36:21Z",
+            "owner": "peoplenarthax",
+            "repo": "cleaner-codemods",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "underscore-to-native",
+          "description": "Underscore to native codemods.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-09-21T20:01:29Z",
+            "owner": "zackargyle",
+            "repo": "codemods",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rxjs-codemod",
+          "description": "Codemod scripts to transform older RxJS code to RxJS5-compatible code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-04-04T20:34:52Z",
+            "owner": "sergi",
+            "repo": "rxjs-codemod",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dsgkirkby/js-codemods",
+          "description": "Wrap switch statements in a code block.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-10-05T02:52:51Z",
+            "owner": "dsgkirkby",
+            "repo": "js-codemods",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "autobots",
+          "description": "Codemods for great good!.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-11-07T21:58:47Z",
+            "owner": "geekjuice",
+            "repo": "autobots",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ce-codemods",
+          "description": "Codemods for custom elements.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2019-02-27T06:56:03Z",
+            "owner": "dogoku",
+            "repo": "ce-codemods",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "skratchdot-codemods",
+          "description": "A collection of utility codemods.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-10-14T18:01:45Z",
+            "owner": "skratchdot",
+            "repo": "skratchdot-codemods",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "styletron/codemods",
+          "description": "Codemods for styletron.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-03-08T01:26:10Z",
+            "owner": "styletron",
+            "repo": "codemods",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EDITD/codemods",
+          "description": "Radium to Glamour codemod.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2018-11-08T17:10:48Z",
+            "owner": "EDITD",
+            "repo": "codemods",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bradencanderson/codemods",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-07-31T02:01:33Z",
+            "owner": "bradencanderson",
+            "repo": "codemods",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "knoopx/codemods",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-04-12T18:40:21Z",
+            "owner": "knoopx",
+            "repo": "codemods",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bseber/codemods",
+          "description": "Codemods for Jasmine refactoring.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-08-12T14:40:04Z",
+            "owner": "bseber",
+            "repo": "codemods",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "peakon/codemods",
+          "description": "I18n Context, Locale, No immutable class codemods.",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "strudel-codemod",
+          "description": "Strudel codemod scripts.",
+          "children": []
+        }
+      ],
+      "title": "JavaScript"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "idx-to-optional-chaining",
+          "description": "JSCodeShift codemod that transforms usage of idx to the draft optional chaining standard.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-05T10:15:19Z",
+            "owner": "cdlewis",
+            "repo": "idx-to-optional-chaining",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "generator2async-codemod",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-11-06T04:09:04Z",
+            "owner": "shimohq",
+            "repo": "generator2async-codemod",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "async-await-codemod",
+          "description": "Codemod to add try catch to all the async await statements.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-02-16T23:08:36Z",
+            "owner": "vivek12345",
+            "repo": "async-await-codemod",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "codemod-get-to-optional-member-expression",
+          "description": "Change Lodash functions to ES7 optional member expressions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-06-10T15:09:38Z",
+            "owner": "eschaefer",
+            "repo": "codemod-get-to-optional-member-expressions",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "5to6",
+          "description": "A collection of codemods that allow you to transform your js code from ES5 to ES6.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2015-12-23T02:54:25Z",
+            "owner": "jamischarles",
+            "repo": "5to6",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lebab-as-babel-plugins",
+          "description": "Codemod to transform ES5 code to ES6/7 and uses babel plugins.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-04-26T00:29:41Z",
+            "owner": "rajatvijay",
+            "repo": "lebab-as-babel-plugins",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "ESNext"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "tsmod",
+          "description": "Refactor TypScript code programmatically using codemods.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2019-10-01T22:06:01Z",
+            "owner": "remojansen",
+            "repo": "tsmod",
+            "stars": 96
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ts-codemod",
+          "description": "Typescript based codemods.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2019-11-07T07:05:49Z",
+            "owner": "tusharmath",
+            "repo": "ts-codemod",
+            "stars": 74
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tscodeshift",
+          "description": "A tscodeshift is a toolkit for running codemods over multiple TS files.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2017-10-05T06:17:24Z",
+            "owner": "KnisterPeter",
+            "repo": "tscodeshift",
+            "stars": 53
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "js-to-typescript-codemod",
+          "description": "A simple codemod for helping migrate from babel to typescript. Converts default imports to wildcards.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-11-20T10:52:57Z",
+            "owner": "mattlewis92",
+            "repo": "js-to-typescript-codemod",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "flowshift",
+          "description": "Flow to typescript codemods.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-02-10T07:33:09Z",
+            "owner": "albertywu",
+            "repo": "flowshift",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "type-import-codemod",
+          "description": "Combine type and value imports using Typescript 4.5 type modifier syntax.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-06-07T19:01:46Z",
+            "owner": "IanVS",
+            "repo": "type-import-codemod",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ts-codemod-scripts",
+          "description": "Collection of basic JS/React codemod scripts to prepare for TS on a codebase.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-05-25T17:12:54Z",
+            "owner": "buildo",
+            "repo": "ts-codemod-scripts",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "flowToTs",
+          "description": "Flow to Typescript codemods.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2019-10-29T13:34:47Z",
+            "owner": "MarcoPolo",
+            "repo": "flowToTs",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "codemod-cli-ts",
+          "description": "CLI for generating codemods written in Typescript.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2019-03-20T17:18:50Z",
+            "owner": "jmdejno",
+            "repo": "codemod-cli-ts",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "riceburn",
+          "description": "A Typescript, JSON, and text file Code Mod Utility.",
+          "children": []
+        }
+      ],
+      "title": "Typescript"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "codeshift",
+          "description": "JSCodeshift equivalent for Ruby.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2023-02-28T10:15:56Z",
+            "owner": "rajasegar",
+            "repo": "codeshift",
+            "stars": 49
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ruby_crystal_codemod",
+          "description": "A codemod / transpiler that can help you convert Ruby into Crystal.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2024-05-17T02:11:16Z",
+            "owner": "DocSpring",
+            "repo": "ruby_crystal_codemod",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ruby AST Explorer",
+          "description": "AST Explorer for Ruby.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-03-01T21:33:37Z",
+            "owner": "rajasegar",
+            "repo": "ruby-ast-explorer",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cybertron",
+          "description": "Codemod CLI to bootstrap Ruby codemods (transforms).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2025-07-22T06:02:19Z",
+            "owner": "rajasegar",
+            "repo": "cybertron",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "Ruby"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Frameworks"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "react-codemod",
+          "description": "React codemod scripts to update React APIs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-02-22T23:10:31Z",
+            "owner": "reactjs",
+            "repo": "react-codemod",
+            "stars": 4409
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ast-18n",
+          "description": "Easily migrate your existing React codebase to use i18n.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-06-18T06:17:39Z",
+            "owner": "sibelius",
+            "repo": "ast-i18n",
+            "stars": 231
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rn-update-deprecated-modules",
+          "description": "Codemod to update import declarations as per react-native > 0.59.x deprecations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-03T19:44:28Z",
+            "owner": "lucasbento",
+            "repo": "rn-update-deprecated-modules",
+            "stars": 72
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rackt-codemod",
+          "description": "Codemod scripts for Rackt libraries.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2018-02-05T05:52:13Z",
+            "owner": "reactjs",
+            "repo": "rackt-codemod",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "babel-plugin-hyperscript-to-jsx",
+          "description": "This plugin transforms react-hyperscript into JSX. Intended to be used as codemod.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-04T21:42:41Z",
+            "owner": "RIP21",
+            "repo": "babel-plugin-hyperscript-to-jsx",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "codemod-react-proptypes-to-flow",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-04-08T06:18:11Z",
+            "owner": "jamiebuilds",
+            "repo": "codemod-react-proptypes-to-flow",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "js2tsx",
+          "description": "A toolkit provide some codemod scripts based on jscodeshift to migrating react code base to typescript.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-04-25T15:14:33Z",
+            "owner": "sjy",
+            "repo": "js2tsx",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "metal-to-react",
+          "description": "Codemods for migrating metal-jsx to react.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-03-08T18:17:22Z",
+            "owner": "bryceosterhaus",
+            "repo": "metal-to-react",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yannvr/codemods",
+          "description": "JS/React transforms because life is too short.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-01-30T21:51:10Z",
+            "owner": "yannvr",
+            "repo": "codemods",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cjsx-codemod",
+          "description": "A codemod for migrating off of coffee-react CJSX.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-10-03T06:56:48Z",
+            "owner": "jsdf",
+            "repo": "cjsx-codemod",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "babel-plugin-codemod-react-css-modules",
+          "description": "Converts React components using imported CSS stylesheets to equivalent CSS Modules syntax.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2019-01-29T22:07:26Z",
+            "owner": "Craga89",
+            "repo": "babel-plugin-codemod-react-css-modules",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-hot-loader-codemod",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2019-02-10T19:23:00Z",
+            "owner": "sibelius",
+            "repo": "react-hot-loader-codemod",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "over_react_codemod",
+          "description": "Codemods to help consumers of over_react automate the migration of UI component code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-08-07T06:19:34Z",
+            "owner": "Workiva",
+            "repo": "over_react_codemod",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-native-paper-codemod",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-09-03T10:21:42Z",
+            "owner": "callstack",
+            "repo": "react-native-paper-codemod",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-codemod-pure-component-to-class",
+          "description": "A react codemod to transform stateless/pure/functional components to class components.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-04-21T10:39:48Z",
+            "owner": "orzarchi",
+            "repo": "react-codemod-pure-component-to-class",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mukeshsoni/codemods",
+          "description": "Adds a data-test-id attribute to all jsx html elements.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-05-10T14:35:02Z",
+            "owner": "mukeshsoni",
+            "repo": "codemods",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-native-fix-inline-styles",
+          "description": "Fix inline styles in react native components.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-12-11T17:23:18Z",
+            "owner": "ignacioola",
+            "repo": "react-native-fix-inline-styles",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "js-react-codemods",
+          "description": "A boilerplate of JS 5/6/7 transforms for react/redux/js/etc.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-05-27T04:24:19Z",
+            "owner": "nicholas-b-carter",
+            "repo": "js-react-codemods",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "proptypes-to-flow",
+          "description": "Codemod to tranform react proptypes to flow.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-07T11:58:23Z",
+            "owner": "mikhail-hatsilau",
+            "repo": "proptypes-to-flow-codemod",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mst-codemod-to-0.10",
+          "description": "A codemod to migrate to MobX-State-Tree 0.10 from previous versions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2017-08-17T14:46:56Z",
+            "owner": "mobxjs",
+            "repo": "mst-codemod-to-0.10",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-with-hooks-removal-codemod",
+          "description": "Remove the react-with-hooks library code when React 16.7.0 is released.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-11-18T20:46:24Z",
+            "owner": "polizz",
+            "repo": "react-with-hooks-removal-codemod",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-style-px-suffix-codemod",
+          "description": "Append px to shorthand values in style objects in react in prep for react 15 warning.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-04-04T16:43:42Z",
+            "owner": "conorhastings",
+            "repo": "react-style-px-suffix-codemod",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "denvned/codemod",
+          "description": "Relay Mutation - didResolveProps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-02-19T14:25:11Z",
+            "owner": "denvned",
+            "repo": "codemod",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "React.js"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ember-watson",
+          "description": "An Ember.js codemod to make upgrades automatic.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-30T18:43:29Z",
+            "owner": "abuiles",
+            "repo": "ember-watson",
+            "stars": 303
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ember-i18n-to-intl-migrator",
+          "description": "Migrate ember-i18n to ember-intl .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-01-22T21:45:25Z",
+            "owner": "DockYard",
+            "repo": "ember-i18n-to-intl-migrator",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-destructuring-assignment-codemod",
+          "description": "A WIP jscodeshift codemod to destructure assignments of props, state, and context.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-02-02T18:55:11Z",
+            "owner": "thibaudcolas",
+            "repo": "react-destructuring-assignment-codemod",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "test-selectors-codemod",
+          "description": "A codemode for fixing the ember-test-selectors testSelector helper deprecation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-05-29T06:23:49Z",
+            "owner": "lorcan",
+            "repo": "test-selectors-codemod",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ember-action-codemods",
+          "description": "Codemods for converting uses of action to the {{on}} modifier.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-04T21:49:02Z",
+            "owner": "lennyburdette",
+            "repo": "ember-action-codemods",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ember-k-codemod",
+          "description": "Removes all usages of Ember.K.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-07-04T11:34:24Z",
+            "owner": "cibernox",
+            "repo": "ember-k-codemod",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ember-computed-decorators-codemod",
+          "description": "Codemod to update ember-computed-decorators to ember-decorators.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-09-10T19:01:04Z",
+            "owner": "bwittenbrook3",
+            "repo": "ember-computed-decorators-codemod",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ember-cli-mirage-faker-codemod",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-04-23T22:42:08Z",
+            "owner": "caseywatts",
+            "repo": "ember-cli-mirage-faker-codemod",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lil-codemods",
+          "description": "Ember codemods.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2019-04-01T17:51:31Z",
+            "owner": "jmdejno",
+            "repo": "lil-codemods",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ember-component-jquery",
+          "description": "A codemod for migrating Ember Component code from to .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-04T23:12:19Z",
+            "owner": "patocallaghan",
+            "repo": "ember-component-jquery",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jmdejno/ember-codemods",
+          "description": "Ember code Transforms.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2019-03-18T15:47:57Z",
+            "owner": "jmdejno",
+            "repo": "ember-codemods",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "legacy-tests-codemod",
+          "description": "A collection of codemod's for legacy-tests-codemod.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-12-20T10:27:05Z",
+            "owner": "patocallaghan",
+            "repo": "legacy-tests-codemod",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Ember.js"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Libraries"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "optional-chaining-codemod",
+          "description": "Codemod to migrate from Lodash get and logical and expressions to optional chaining.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-03-04T04:15:28Z",
+            "owner": "villesau",
+            "repo": "optional-chaining-codemod",
+            "stars": 113
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lodash-codemods",
+          "description": "Codemods to simplify upgrading Lodash versions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-01-19T22:09:16Z",
+            "owner": "jfmengels",
+            "repo": "lodash-codemods",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "js-transforms",
+          "description": "Codemod to replace lodash for lodash/fp.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-05-24T13:33:35Z",
+            "owner": "gunar",
+            "repo": "js-transforms",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "modular-lodash-codemod",
+          "description": "Makes all your lodash imports modular.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-08-16T12:16:05Z",
+            "owner": "dgrijuela",
+            "repo": "modular-lodash-codemod",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kevinbarabash/codemods",
+          "description": "Lodash/Underscore to native.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-08-09T16:12:48Z",
+            "owner": "k4b7",
+            "repo": "codemods",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lodash-to-lodash-amd-codemods",
+          "description": "Lodash to lodash-amd codemods.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2015-11-07T18:49:04Z",
+            "owner": "OliverJAsh",
+            "repo": "lodash-to-lodash-amd-codemods",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Lodash"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "mocha-to-jest-codemod",
+          "description": "Convert Mochan TDD with Chai assert tests to Jest.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-12-04T20:24:26Z",
+            "owner": "paularmstrong",
+            "repo": "mocha-to-jest-codemod",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mocha2ava-codemod",
+          "description": "A tranformer for migrating tests from Mocha to Ava.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-07-04T04:25:22Z",
+            "owner": "shimohq",
+            "repo": "mocha2ava-codemod",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ts-codemods",
+          "description": "Transformers for migrating callback-based Mocha tests to async/await based tests.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-10-20T19:50:22Z",
+            "owner": "labarilem",
+            "repo": "ts-codemods",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Mocha"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "styled-components-codemods",
+          "description": "Automatic codemods to upgrade your styled-components code to newer versions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-07T20:17:17Z",
+            "owner": "styled-components",
+            "repo": "styled-components-codemods",
+            "stars": 52
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "styled-components-v3-to-v4-codemod",
+          "description": "Codemod to migrate deprecated .extend API in favor of only styled functions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-11-12T16:35:29Z",
+            "owner": "RIP21",
+            "repo": "styled-components-v3-to-v4-codemod",
+            "stars": 7
+          }
+        }
+      ],
+      "title": "Styled Components"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "@putout/plugin-react-router",
+          "description": "Putout plugin adds ability to migrate to latest version of react router.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T13:55:02Z",
+            "owner": "coderaiser",
+            "repo": "putout",
+            "stars": 797
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-router-v6-codemods",
+          "description": "Codemods for migrating react-router from v5 to v6.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-09T11:26:51Z",
+            "owner": "rajasegar",
+            "repo": "react-router-v6-codemods",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-router-v4-codemods",
+          "description": "Codemods for migrating react-router from v3 to v4.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-08T06:32:36Z",
+            "owner": "rajasegar",
+            "repo": "react-router-v4-codemods",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "react-router"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "codemod-v4",
+          "description": "Codemod cli for antd v4 upgrade.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-11-24T15:57:56Z",
+            "owner": "ant-design",
+            "repo": "codemod-v4",
+            "stars": 99
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "antd-codemod",
+          "description": "Antd codemod scripts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-03-01T14:42:47Z",
+            "owner": "ant-design",
+            "repo": "antd-codemod",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "codemod-v5",
+          "description": "Codemod cli for antd v5 upgrade.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-04-19T06:03:40Z",
+            "owner": "ant-design",
+            "repo": "codemod-v5",
+            "stars": 18
+          }
+        }
+      ],
+      "title": "ant-design"
+    },
+    {
+      "description": "This is the list of codemods used by a particular organization for their code transformations.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "salesforce/lwc-codemod",
+          "description": "Codemods for Lightning Web Components.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-04T14:09:10Z",
+            "owner": "salesforce",
+            "repo": "lwc-codemod",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "shopify-codemod",
+          "description": "A collection of Codemods written with JSCodeshift that will help update our old, crusty JavaScript to nice, clean JavaScript.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2018-03-07T02:11:08Z",
+            "owner": "Shopify",
+            "repo": "shopify-codemod",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "uber-codemods",
+          "description": "Because Code Changes and Evolves.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-12T06:11:16Z",
+            "owner": "uber-web",
+            "repo": "uber-codemods",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "artsy/codemods",
+          "description": "Various codemods used around Artsy.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-11-10T17:08:59Z",
+            "owner": "artsy",
+            "repo": "codemods",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@freshworks/ember-codemods",
+          "description": "A collection of codemods used in Freshworks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-03-27T07:15:51Z",
+            "owner": "freshworks-oss",
+            "repo": "ember-freshdesk-codemods",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tune-codemods",
+          "description": "A collection of codemods we use at tune.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-01-31T17:51:09Z",
+            "owner": "TUNE-Archive",
+            "repo": "tune-codemods",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yapp-codemods",
+          "description": "Yapp's codemods.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-10-18T21:10:42Z",
+            "owner": "yappbox",
+            "repo": "yapp-codemods",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "civicsource/codemod",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-05-12T15:12:36Z",
+            "owner": "civicsource",
+            "repo": "codemod",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Organization specific Codemods"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "vscodemod",
+          "description": "VSCode extension for doing codemod on selected text.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-12-03T22:04:57Z",
+            "owner": "mikaelbr",
+            "repo": "vscodemod",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "atom-codemod",
+          "description": "Atom plugin for running codemods.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-05-24T10:46:03Z",
+            "owner": "rosswarren",
+            "repo": "atom-codemod",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nmn/atom-codemod",
+          "description": "Simple commands to apply specific Babel plugins/codemods on your code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-04-05T06:56:28Z",
+            "owner": "nmn",
+            "repo": "atom-codemod",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Editor Plugins"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "mrm",
+          "description": "Codemods for your project config files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-10-30T07:45:39Z",
+            "owner": "sapegin",
+            "repo": "mrm",
+            "stars": 1646
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-codemod",
+          "description": "A tool to automatically fix Django deprecations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T03:59:36Z",
+            "owner": "browniebroke",
+            "repo": "django-codemod",
+            "stars": 189
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ratchet",
+          "description": "Codemod to convert React PropTypes to TypeScript types.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-04-07T19:56:22Z",
+            "owner": "mskelton",
+            "repo": "ratchet",
+            "stars": 145
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "next-codemod",
+          "description": "Codemod transformations to help upgrade Next.js codebases.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2020-09-13T12:28:08Z",
+            "owner": "vercel",
+            "repo": "next-codemod",
+            "stars": 69
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "js-codemods",
+          "description": "Node.js/JavaScript codemods used at @entria.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-05-11T13:54:53Z",
+            "owner": "woovibr",
+            "repo": "codemods",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "strapi/codemods",
+          "description": "CLI to help you migrate your Strapi applications & plugins from v3 to v4.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2023-11-02T15:52:50Z",
+            "owner": "strapi",
+            "repo": "codemods",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "graphql2ts",
+          "description": "Transform .graphql to graphql-js typescript.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-01-04T13:46:46Z",
+            "owner": "sibelius",
+            "repo": "graphql2ts",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "babel-plugin-glamorous-to-emotion",
+          "description": "A codemod to migrate existing React or Preact codebases from glamorous to emotion.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-04T09:27:40Z",
+            "owner": "TejasQ",
+            "repo": "babel-plugin-glamorous-to-emotion",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PHP-Codeshift",
+          "description": "A small PHP toolkit for running codemods (code transformations) over multiple PHP files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2022-10-23T19:41:41Z",
+            "owner": "Atanamo",
+            "repo": "PHP-Codeshift",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "webpack-codemods",
+          "description": "JS Codemod to automatically convert webpack config from v1 to v2.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-01-27T16:46:39Z",
+            "owner": "okonet",
+            "repo": "webpack-codemods",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "webdriverio/codemod",
+          "description": "A codemod to transform Protractor into WebdriverIO tests.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-07-15T11:26:27Z",
+            "owner": "webdriverio",
+            "repo": "codemod",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gen-codemod",
+          "description": "Generate codemods by specifying your starting -> desired JavaScript.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-02-28T01:36:05Z",
+            "owner": "noahsug",
+            "repo": "gen-codemod",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mithril-codemods",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2017-05-02T16:28:08Z",
+            "owner": "MithrilJS",
+            "repo": "mithril-codemods",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "flow-codemod",
+          "description": "Jscodeshift-powered mithril@0.2.x to mithril@1.x transformations .",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2019-07-15T15:19:18Z",
+            "owner": "flow",
+            "repo": "flow-codemod",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "babel-plugin-localize",
+          "description": "Codemod to localize static strings.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-07-21T03:24:51Z",
+            "owner": "amerani",
+            "repo": "babel-plugin-localize",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "date-fns-upgrade-codemod",
+          "description": "Code mods for upgrading date-fns versions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-04T06:24:52Z",
+            "owner": "date-fns",
+            "repo": "date-fns-upgrade-codemod",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "generator-codemod",
+          "description": "A generator to create codemods quickly.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-04-19T05:30:44Z",
+            "owner": "jamestalmage",
+            "repo": "generator-codemod",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "create-codemod-app",
+          "description": "Create Codemod App, a codemod generator and runner.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-04T10:56:30Z",
+            "owner": "dangreenisrael",
+            "repo": "create-codemod-app",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rxdart_codemod",
+          "description": "A collection of codemods to upgrade your RxDart code from one version to the next.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2019-11-28T13:15:28Z",
+            "owner": "brianegan",
+            "repo": "rxdart_codemod",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "titanium-codemods",
+          "description": "Codemod scripts for Titanium Applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-03T16:32:31Z",
+            "owner": "ewanharris",
+            "repo": "titanium-codemods",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "codemodes-tycoon",
+          "description": "Codemods from Tycoon.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-11-11T08:23:31Z",
+            "owner": "myshov",
+            "repo": "codemodes-tycoon",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "can-migrate",
+          "description": "CLI & codemod scripts for upgrading to CanJS 3, 4 and 5.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-11-23T01:57:38Z",
+            "owner": "canjs",
+            "repo": "can-migrate",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jasmine-to-chai-codemod",
+          "description": "Codemod for jscodeshift to migrate your tests from Jasmine to Chai syntax.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-12-28T12:53:24Z",
+            "owner": "vansosnin",
+            "repo": "jasmine-to-chai-codemod",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pkg-upgrader",
+          "description": "Easily build codemod CLIs using jscodeshift. fork of lib-upgrader.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-03T16:22:55Z",
+            "owner": "benmonro",
+            "repo": "pkg-upgrader",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "direct-import-codemod",
+          "description": "Use direct imports to save JS bundle size.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-01-21T21:09:22Z",
+            "owner": "limpbrains",
+            "repo": "direct-import-codemod",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gnome-shell-extension-es6-class-codemod",
+          "description": "A jscodeshift transform that helps migrating GNOME Shell extensions to 3.32.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2019-05-16T03:54:27Z",
+            "owner": "zhanghai",
+            "repo": "gnome-shell-extension-es6-class-codemod",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "generator-jscodeshif",
+          "description": "A yeoman generator for a jscodeshift codemod.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-04-14T22:26:47Z",
+            "owner": "scalvert",
+            "repo": "generator-jscodeshift",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "viewtools/codemods",
+          "description": "Helpers to migrate your code to newer versions of Views Tools.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-27T02:14:12Z",
+            "owner": "viewstools",
+            "repo": "codemods",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "d3-upgrade-codemods",
+          "description": "Codemods to upgrade d3 from version 3.x.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-01-21T23:16:56Z",
+            "owner": "expobrain",
+            "repo": "d3-upgrade-codemods",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "closure-codemod",
+          "description": "Closure codemod scripts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-08-31T08:00:16Z",
+            "owner": "toshi-toma",
+            "repo": "closure-codemod",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tds-codemod",
+          "description": "TELUS Design System.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2023-04-20T16:49:10Z",
+            "owner": "telus-archive",
+            "repo": "tds-codemod",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bottender-codemod",
+          "description": "Bottender codemod scripts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-05T02:08:45Z",
+            "owner": "bottenderjs",
+            "repo": "bottender-codemod",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gsa-codeshift",
+          "description": "GSA codemod scripts.",
+          "children": []
+        }
+      ],
+      "title": "Misc"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "awesome-jscodeshift",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-10-22T09:12:10Z",
+            "owner": "sejoker",
+            "repo": "awesome-jscodeshift",
+            "stars": 415
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-ast",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-05-18T08:00:10Z",
+            "owner": "cowchimp",
+            "repo": "awesome-ast",
+            "stars": 238
+          }
+        }
+      ],
+      "title": "Awesome Lists"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:01:53.323Z",
+    "original_repository": "rajasegar/awesome-codemods",
+    "original_repository_sha": "f1c322698f0525cc8bb40461980db618b4d1a57d",
+    "enhanced_repository": "enhansome/enhansome-codemods",
+    "enhanced_repository_description": null,
+    "title": "Awesome Codemods with stars"
+  }
+}

@@ -1689,7 +1689,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-12T13:55:02Z",
+            "last_commit": "2026-08-13T12:02:36Z",
             "owner": "coderaiser",
             "repo": "putout",
             "stars": 797
@@ -1965,7 +1965,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T03:59:36Z",
+            "last_commit": "2026-08-13T15:17:38Z",
             "owner": "browniebroke",
             "repo": "django-codemod",
             "stars": 189
@@ -2436,7 +2436,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:01:53.323Z",
+    "last_updated": "2026-08-13T15:40:16.157Z",
     "original_repository": "rajasegar/awesome-codemods",
     "original_repository_sha": "f1c322698f0525cc8bb40461980db618b4d1a57d",
     "enhanced_repository": "enhansome/enhansome-codemods",

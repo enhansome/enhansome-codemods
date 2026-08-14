@@ -28,7 +28,7 @@
             "last_commit": "2023-01-03T18:55:01Z",
             "owner": "5to6",
             "repo": "5to6-codemod",
-            "stars": 301
+            "stars": 300
           }
         },
         {
@@ -1689,7 +1689,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-13T12:02:36Z",
+            "last_commit": "2026-08-14T14:50:22Z",
             "owner": "coderaiser",
             "repo": "putout",
             "stars": 797
@@ -2436,7 +2436,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T15:40:16.157Z",
+    "last_updated": "2026-08-14T15:34:29.983Z",
     "original_repository": "rajasegar/awesome-codemods",
     "original_repository_sha": "f1c322698f0525cc8bb40461980db618b4d1a57d",
     "enhanced_repository": "enhansome/enhansome-codemods",

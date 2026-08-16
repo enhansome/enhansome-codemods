@@ -1689,7 +1689,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-14T23:05:10Z",
+            "last_commit": "2026-08-16T13:32:24Z",
             "owner": "coderaiser",
             "repo": "putout",
             "stars": 797
@@ -2436,7 +2436,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T14:59:50.049Z",
+    "last_updated": "2026-08-16T15:00:30.951Z",
     "original_repository": "rajasegar/awesome-codemods",
     "original_repository_sha": "f1c322698f0525cc8bb40461980db618b4d1a57d",
     "enhanced_repository": "enhansome/enhansome-codemods",

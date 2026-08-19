@@ -192,7 +192,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before contributing.
 
 ### material-ui
 
-* [@mui/codemod](https://github.com/mui/material-ui/tree/master/packages/mui-codemod) ⭐ 98,862 | 🐛 1,491 | 🌐 JavaScript | 📅 2026-08-19 - A collection of codemod scripts based for use with jscodeshift that help update MUI APIs.
+* [@mui/codemod](https://github.com/mui/material-ui/tree/master/packages/mui-codemod) ⭐ 98,866 | 🐛 1,486 | 🌐 JavaScript | 📅 2026-08-19 - A collection of codemod scripts based for use with jscodeshift that help update MUI APIs.
 
 ### ant-design
 

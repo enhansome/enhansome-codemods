@@ -1061,7 +1061,7 @@
                 "last_commit": "2026-02-22T23:10:31Z",
                 "owner": "reactjs",
                 "repo": "react-codemod",
-                "stars": 4409
+                "stars": 4410
               }
             },
             {
@@ -1789,7 +1789,7 @@
                 "archived": false,
                 "id": 159849469,
                 "language": "JavaScript",
-                "last_commit": "2026-08-20T15:04:49Z",
+                "last_commit": "2026-08-21T13:11:39Z",
                 "owner": "coderaiser",
                 "repo": "putout",
                 "stars": 796
@@ -2586,7 +2586,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T15:17:13.646Z",
+    "last_updated": "2026-08-21T15:15:42.319Z",
     "original_repository": "rajasegar/awesome-codemods",
     "original_repository_id": 227242829,
     "original_repository_sha": "f1c322698f0525cc8bb40461980db618b4d1a57d",

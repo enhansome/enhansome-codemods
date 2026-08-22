@@ -12,7 +12,7 @@
             "archived": false,
             "id": 68468109,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T16:55:13Z",
+            "last_commit": "2026-08-21T15:42:07Z",
             "owner": "skovhus",
             "repo": "jest-codemods",
             "stars": 888
@@ -1789,7 +1789,7 @@
                 "archived": false,
                 "id": 159849469,
                 "language": "JavaScript",
-                "last_commit": "2026-08-21T13:11:39Z",
+                "last_commit": "2026-08-22T07:52:01Z",
                 "owner": "coderaiser",
                 "repo": "putout",
                 "stars": 796
@@ -2586,7 +2586,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T15:15:42.319Z",
+    "last_updated": "2026-08-22T14:59:20.715Z",
     "original_repository": "rajasegar/awesome-codemods",
     "original_repository_id": 227242829,
     "original_repository_sha": "f1c322698f0525cc8bb40461980db618b4d1a57d",

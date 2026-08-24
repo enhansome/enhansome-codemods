@@ -1585,6 +1585,50 @@
           "description": null,
           "node_type": "group",
           "title": "Ember.js"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "preact-codemod",
+              "description": "Shave some bytes by using Preact.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 65661776,
+                "language": "JavaScript",
+                "last_commit": "2018-05-04T08:10:23Z",
+                "owner": "vutran",
+                "repo": "preact-codemod",
+                "stars": 40
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Preact.js"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "vue-codemods",
+              "description": "Collection of codemod scripts that help update and refactor Vue and JavaScript files.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 202798469,
+                "language": "JavaScript",
+                "last_commit": "2023-01-06T02:05:25Z",
+                "owner": "SergioCrisostomo",
+                "repo": "vue-codemods",
+                "stars": 25
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Vue.js"
         }
       ],
       "title": "Frameworks"
@@ -1745,6 +1789,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "jscodeshift-ava-tester",
+              "description": "Codeshift wrapper to write smaller and better tests for your codemods using AVA.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 64325318,
+                "language": "JavaScript",
+                "last_commit": "2017-01-14T23:40:32Z",
+                "owner": "jfmengels",
+                "repo": "jscodeshift-ava-tester",
+                "stars": 13
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "AVA"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "styled-components-codemods",
               "description": "Automatic codemods to upgrade your styled-components code to newer versions.",
               "children": [],
@@ -1829,6 +1895,28 @@
           "description": null,
           "node_type": "group",
           "title": "react-router"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "@mui/codemod",
+              "description": "A collection of codemod scripts based for use with jscodeshift that help update MUI APIs.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 23083156,
+                "language": "JavaScript",
+                "last_commit": "2026-08-24T12:56:04Z",
+                "owner": "mui",
+                "repo": "material-ui",
+                "stars": 98914
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "material-ui"
         },
         {
           "children": [
@@ -2089,10 +2177,10 @@
             "archived": false,
             "id": 261884067,
             "language": "Python",
-            "last_commit": "2026-08-22T22:58:05Z",
+            "last_commit": "2026-08-24T06:51:16Z",
             "owner": "browniebroke",
             "repo": "django-codemod",
-            "stars": 189
+            "stars": 190
           }
         },
         {
@@ -2586,7 +2674,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T15:01:23.888Z",
+    "last_updated": "2026-08-24T14:30:12.217Z",
     "original_repository": "rajasegar/awesome-codemods",
     "original_repository_id": 227242829,
     "original_repository_sha": "f1c322698f0525cc8bb40461980db618b4d1a57d",

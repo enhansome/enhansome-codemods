@@ -1855,7 +1855,7 @@
                 "archived": false,
                 "id": 159849469,
                 "language": "JavaScript",
-                "last_commit": "2026-08-23T14:15:34Z",
+                "last_commit": "2026-08-24T15:20:14Z",
                 "owner": "coderaiser",
                 "repo": "putout",
                 "stars": 796
@@ -1907,10 +1907,10 @@
                 "archived": false,
                 "id": 23083156,
                 "language": "JavaScript",
-                "last_commit": "2026-08-24T12:56:04Z",
+                "last_commit": "2026-08-24T15:14:09Z",
                 "owner": "mui",
                 "repo": "material-ui",
-                "stars": 98914
+                "stars": 98915
               }
             }
           ],
@@ -2674,7 +2674,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:30:12.217Z",
+    "last_updated": "2026-08-24T15:23:12.916Z",
     "original_repository": "rajasegar/awesome-codemods",
     "original_repository_id": 227242829,
     "original_repository_sha": "f1c322698f0525cc8bb40461980db618b4d1a57d",

@@ -12,7 +12,7 @@
             "archived": false,
             "id": 68468109,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T23:37:12Z",
+            "last_commit": "2026-08-26T18:45:34Z",
             "owner": "skovhus",
             "repo": "jest-codemods",
             "stars": 888
@@ -195,7 +195,7 @@
             "last_commit": "2026-08-11T10:49:48Z",
             "owner": "eslint",
             "repo": "eslint-transforms",
-            "stars": 30
+            "stars": 31
           }
         },
         {
@@ -1238,7 +1238,7 @@
                 "archived": false,
                 "id": 143073092,
                 "language": "Dart",
-                "last_commit": "2026-08-14T21:04:45Z",
+                "last_commit": "2026-08-26T16:52:35Z",
                 "owner": "Workiva",
                 "repo": "over_react_codemod",
                 "stars": 3
@@ -1855,7 +1855,7 @@
                 "archived": false,
                 "id": 159849469,
                 "language": "JavaScript",
-                "last_commit": "2026-08-25T21:53:11Z",
+                "last_commit": "2026-08-26T20:00:58Z",
                 "owner": "coderaiser",
                 "repo": "putout",
                 "stars": 796
@@ -1907,10 +1907,10 @@
                 "archived": false,
                 "id": 23083156,
                 "language": "JavaScript",
-                "last_commit": "2026-08-26T14:22:39Z",
+                "last_commit": "2026-08-27T11:10:20Z",
                 "owner": "mui",
                 "repo": "material-ui",
-                "stars": 98932
+                "stars": 98945
               }
             }
           ],
@@ -2177,7 +2177,7 @@
             "archived": false,
             "id": 261884067,
             "language": "Python",
-            "last_commit": "2026-08-24T06:51:16Z",
+            "last_commit": "2026-08-27T01:16:41Z",
             "owner": "browniebroke",
             "repo": "django-codemod",
             "stars": 190
@@ -2674,9 +2674,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T16:05:30.540Z",
-    "original_repository": "rajasegar/awesome-codemods",
-    "original_repository_id": 227242829,
+    "last_updated": "2026-08-27T11:31:43.651Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 227242829,
+      "language": null,
+      "last_commit": "2024-02-16T03:56:20Z",
+      "owner": "rajasegar",
+      "repo": "awesome-codemods",
+      "stars": 221
+    },
     "original_repository_sha": "f1c322698f0525cc8bb40461980db618b4d1a57d",
     "enhanced_repository": "enhansome/enhansome-codemods",
     "enhanced_repository_description": null,

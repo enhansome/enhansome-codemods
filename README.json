@@ -12,7 +12,7 @@
             "archived": false,
             "id": 68468109,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T18:45:34Z",
+            "last_commit": "2026-08-27T21:40:38Z",
             "owner": "skovhus",
             "repo": "jest-codemods",
             "stars": 888
@@ -90,7 +90,7 @@
             "last_commit": "2026-08-01T02:39:41Z",
             "owner": "aws",
             "repo": "aws-sdk-js-codemod",
-            "stars": 88
+            "stars": 89
           }
         },
         {
@@ -1855,7 +1855,7 @@
                 "archived": false,
                 "id": 159849469,
                 "language": "JavaScript",
-                "last_commit": "2026-08-26T20:00:58Z",
+                "last_commit": "2026-08-27T19:37:44Z",
                 "owner": "coderaiser",
                 "repo": "putout",
                 "stars": 796
@@ -1907,10 +1907,10 @@
                 "archived": false,
                 "id": 23083156,
                 "language": "JavaScript",
-                "last_commit": "2026-08-27T11:10:20Z",
+                "last_commit": "2026-08-27T16:42:38Z",
                 "owner": "mui",
                 "repo": "material-ui",
-                "stars": 98945
+                "stars": 98948
               }
             }
           ],
@@ -2177,7 +2177,7 @@
             "archived": false,
             "id": 261884067,
             "language": "Python",
-            "last_commit": "2026-08-27T01:16:41Z",
+            "last_commit": "2026-08-27T17:45:29Z",
             "owner": "browniebroke",
             "repo": "django-codemod",
             "stars": 190
@@ -2674,7 +2674,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:31:43.651Z",
+    "last_updated": "2026-08-28T00:01:08.365Z",
     "original_repository_info": {
       "archived": false,
       "id": 227242829,

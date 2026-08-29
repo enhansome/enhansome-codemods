@@ -10,12 +10,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Codemods for migrating to Jest https://github.com/facebook/jest 👾",
+            "homepage": null,
             "id": 68468109,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T12:58:20Z",
+            "open_issues": 35,
             "owner": "skovhus",
             "repo": "jest-codemods",
-            "stars": 888
+            "stars": 888,
+            "topics": [
+              "ava",
+              "chai",
+              "codemod",
+              "codemods",
+              "jest",
+              "jest-codemods",
+              "jscodeshift",
+              "mocha",
+              "tape",
+              "testing"
+            ]
           },
           "first_seen": "2026-08-28T23:42:24.872Z"
         },
@@ -26,12 +42,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of codemods that allow you to transform your js code from ES5 to ES6.",
+            "homepage": "https://medium.com/@cpojer/effective-javascript-codemods-5a6686bb46fb",
             "id": 48445151,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2023-01-03T18:55:01Z",
+            "open_issues": 26,
             "owner": "5to6",
             "repo": "5to6-codemod",
-            "stars": 300
+            "stars": 300,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:42:24.872Z"
         },
@@ -42,12 +63,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Community-owned global registry and documentation hub for codemods. Write & run codemods, share them with your friends!",
+            "homepage": "https://hypermod.io",
             "id": 350970762,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-04-18T08:01:44Z",
+            "open_issues": 47,
             "owner": "hypermod-io",
             "repo": "hypermod-community",
-            "stars": 150
+            "stars": 150,
+            "topics": [
+              "cli",
+              "codemod",
+              "codemods",
+              "codeshift",
+              "dependency",
+              "jscodeshift",
+              "upgrade"
+            ]
           },
           "first_seen": "2026-08-28T23:42:24.872Z"
         },
@@ -58,12 +92,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🛠️ A codemod to do large-scale refactor of your relative path imports to alias.",
+            "homepage": null,
             "id": 109599911,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2023-01-03T17:56:07Z",
+            "open_issues": 15,
             "owner": "s-yadav",
             "repo": "relative-to-alias",
-            "stars": 135
+            "stars": 135,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:42:24.872Z"
         },
@@ -74,12 +113,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 44542992,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2015-10-22T14:53:55Z",
+            "open_issues": 0,
             "owner": "jhgg",
             "repo": "js-transforms",
-            "stars": 102
+            "stars": 102,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:42:24.872Z"
         },
@@ -90,12 +134,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Codemod scripts to update AWS SDK for JavaScript APIs.",
+            "homepage": null,
             "id": 464663888,
             "language": "TypeScript",
+            "license": "MIT-0",
             "last_commit": "2026-08-01T02:39:41Z",
+            "open_issues": 40,
             "owner": "aws",
             "repo": "aws-sdk-js-codemod",
-            "stars": 89
+            "stars": 89,
+            "topics": [
+              "ast",
+              "aws",
+              "aws-sdk",
+              "aws-sdk-js",
+              "javascript",
+              "jscodeshift",
+              "jscodeshift-codemod",
+              "nodejs",
+              "recast"
+            ]
           },
           "first_seen": "2026-08-28T23:42:24.872Z"
         },
@@ -106,12 +165,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Refactoring support for JavaScript via jscodeshift codemods",
+            "homepage": null,
             "id": 59240392,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2018-05-09T02:32:10Z",
+            "open_issues": 5,
             "owner": "jurassix",
             "repo": "refactoring-codemods",
-            "stars": 80
+            "stars": 80,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:42:24.872Z"
         },
@@ -122,12 +186,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of transforms for use with JSCodeshift",
+            "homepage": null,
             "id": 58357941,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-09-17T09:58:28Z",
+            "open_issues": 2,
             "owner": "JamieMason",
             "repo": "codemods",
-            "stars": 64
+            "stars": 64,
+            "topics": [
+              "add-react-import",
+              "astexplorer",
+              "automated-refactoring",
+              "code-transformation",
+              "codemod",
+              "codemods",
+              "default-props",
+              "jscodeshift",
+              "named-exports",
+              "named-imports",
+              "prop-types",
+              "proptypes",
+              "refactoring",
+              "sort-jsx",
+              "sort-objects"
+            ]
           },
           "first_seen": "2026-08-28T23:42:24.872Z"
         },
@@ -138,12 +223,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tools that make it easy to codemod imports/requires in your JS",
+            "homepage": null,
             "id": 122303711,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2024-05-07T14:25:47Z",
+            "open_issues": 9,
             "owner": "suchipi",
             "repo": "transform-imports",
-            "stars": 53
+            "stars": 53,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:42:24.872Z"
         },
@@ -154,12 +244,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Sort ES6 imports by type",
+            "homepage": "https://www.npmjs.com/package/codemod-imports-sort",
             "id": 87587643,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2018-05-07T16:37:23Z",
+            "open_issues": 3,
             "owner": "bfncs",
             "repo": "codemod-imports-sort",
-            "stars": 38
+            "stars": 38,
+            "topics": [
+              "codemod",
+              "esnext",
+              "import"
+            ]
           },
           "first_seen": "2026-08-28T23:42:24.872Z"
         },
@@ -170,12 +269,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A set of JSCodeshift transforms that will help you transform your CoffeeScript codebase to ES2015",
+            "homepage": null,
             "id": 48119109,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2016-03-04T14:13:44Z",
+            "open_issues": 2,
             "owner": "Hacker0x01",
             "repo": "coffee-to-es2015-codemod",
-            "stars": 37
+            "stars": 37,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:42:24.872Z"
         },
@@ -186,12 +290,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":package: Transform ES5 Functions to ES6 Classes",
+            "homepage": null,
             "id": 128511524,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2019-06-20T18:37:33Z",
+            "open_issues": 3,
             "owner": "dhruvdutt",
             "repo": "es5-function-to-class-codemod",
-            "stars": 34
+            "stars": 34,
+            "topics": [
+              "codemod",
+              "es5",
+              "es6",
+              "javascript",
+              "jscodeshift"
+            ]
           },
           "first_seen": "2026-08-28T23:42:24.872Z"
         },
@@ -202,12 +317,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Codemods for the ESLint ecosystem",
+            "homepage": null,
             "id": 59136638,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T12:18:48Z",
+            "open_issues": 2,
             "owner": "eslint",
             "repo": "eslint-transforms",
-            "stars": 31
+            "stars": 31,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:42:24.872Z"
         },
@@ -218,12 +338,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Codemod script for migrating promise-based functions to use async/await syntax ",
+            "homepage": null,
             "id": 139923461,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2022-12-07T20:41:13Z",
+            "open_issues": 18,
             "owner": "sgilroy",
             "repo": "async-await-codemod",
-            "stars": 29
+            "stars": 29,
+            "topics": [
+              "async",
+              "async-await",
+              "codemod",
+              "es2017",
+              "es8",
+              "jscodeshift"
+            ]
           },
           "first_seen": "2026-08-28T23:42:24.872Z"
         },
@@ -234,12 +366,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Codemod scripts that update Sinon APIs",
+            "homepage": null,
             "id": 75584376,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2018-11-26T06:41:35Z",
+            "open_issues": 2,
             "owner": "hurrymaplelad",
             "repo": "sinon-codemod",
-            "stars": 28
+            "stars": 28,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:42:24.872Z"
         },
@@ -250,12 +387,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Undecorate your ESNext decorated Classes",
+            "homepage": null,
             "id": 72903487,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2016-12-02T15:29:58Z",
+            "open_issues": 0,
             "owner": "tizmagik",
             "repo": "undecorate-codemod",
-            "stars": 16
+            "stars": 16,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:42:24.872Z"
         },
@@ -266,12 +408,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "there should be more codemods for mundane stuff like this",
+            "homepage": null,
             "id": 212472359,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2023-12-15T08:16:24Z",
+            "open_issues": 3,
             "owner": "NullVoxPopuli",
             "repo": "optional-chaining-codemod",
-            "stars": 16
+            "stars": 16,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:42:24.872Z"
         },
@@ -282,12 +429,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A jscodeshift codemod that transforms from chai to Node assert",
+            "homepage": null,
             "id": 79323382,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2017-04-12T06:14:52Z",
+            "open_issues": 0,
             "owner": "twada",
             "repo": "chai-to-assert",
-            "stars": 15
+            "stars": 15,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:42:24.872Z"
         },
@@ -298,12 +450,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A chai to jasmine codemod that includes additional transforms for jest migration",
+            "homepage": null,
             "id": 75680987,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2017-05-19T15:55:35Z",
+            "open_issues": 2,
             "owner": "AlexJuarez",
             "repo": "chai-to-jasmine",
-            "stars": 12
+            "stars": 12,
+            "topics": [
+              "chai",
+              "codemod",
+              "jasmine",
+              "javascript",
+              "jest",
+              "jscodeshiift",
+              "mocha"
+            ]
           },
           "first_seen": "2026-08-28T23:42:24.872Z"
         },
@@ -314,12 +479,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":art: Codemod to replace relative imports with absolute or custom paths",
+            "homepage": null,
             "id": 97210674,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2022-11-18T21:17:51Z",
+            "open_issues": 1,
             "owner": "bluedaniel",
             "repo": "js-codemod-import-absolute",
-            "stars": 9
+            "stars": 9,
+            "topics": [
+              "codemod",
+              "jscodeshift"
+            ]
           },
           "first_seen": "2026-08-28T23:42:24.872Z"
         },
@@ -330,12 +503,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CodeMods for migrating `chai.assert`, `chai.expect`, `assert` -based test assertions to jest's `expect` assertions",
+            "homepage": null,
             "id": 124369781,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-12-07T09:33:21Z",
+            "open_issues": 3,
             "owner": "devenbansod",
             "repo": "jest-expect-codemod",
-            "stars": 9
+            "stars": 9,
+            "topics": [
+              "assert",
+              "chai",
+              "codemod",
+              "jest"
+            ]
           },
           "first_seen": "2026-08-28T23:42:24.872Z"
         },
@@ -346,12 +529,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A jscodeshift codemod that transforms from expect.js to Node assert",
+            "homepage": null,
             "id": 89314615,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2017-04-28T10:13:17Z",
+            "open_issues": 1,
             "owner": "twada",
             "repo": "expect-js-to-assert",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:42:24.872Z"
         },
@@ -362,12 +550,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A codemod to rescue you from a Immutable.js abuse",
+            "homepage": null,
             "id": 152558576,
             "language": "JavaScript",
+            "license": "ISC",
             "last_commit": "2018-10-13T09:28:18Z",
+            "open_issues": 0,
             "owner": "mariosanchez",
             "repo": "immutablejs-eraser-codemod",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:42:24.872Z"
         },
@@ -378,12 +571,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "🦄 Take the step from co.wrap to async/await automagically ",
+            "homepage": null,
             "id": 68471658,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2023-01-09T06:29:46Z",
+            "open_issues": 3,
             "owner": "albinekb",
             "repo": "co-to-async",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "ast",
+              "cli",
+              "co",
+              "codemod",
+              "jscodeshift",
+              "transform"
+            ]
           },
           "first_seen": "2026-08-28T23:42:24.872Z"
         },
@@ -394,12 +599,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Convert anonymous webpack commonjs require statements to es2015 import statements",
+            "homepage": null,
             "id": 52189617,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2016-02-27T02:32:20Z",
+            "open_issues": 0,
             "owner": "agirton",
             "repo": "webpack-babel-codemod",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:42:24.872Z"
         },
@@ -410,12 +620,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Some codemod scripts to transform code for good styling",
+            "homepage": null,
             "id": 88253238,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2017-04-21T15:12:28Z",
+            "open_issues": 0,
             "owner": "yangshun",
             "repo": "js-codemods",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "codemod",
+              "es6",
+              "javascript",
+              "jscodeshift"
+            ]
           },
           "first_seen": "2026-08-28T23:42:24.872Z"
         },
@@ -426,12 +646,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A codemod to transform amd style includes into commonjs includes",
+            "homepage": null,
             "id": 75972816,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2016-12-09T21:34:51Z",
+            "open_issues": 0,
             "owner": "skratchdot",
             "repo": "amd-to-commonjs-codemod",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:42:24.872Z"
         },
@@ -442,12 +667,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Transform old-style assigned static properties to class static properties",
+            "homepage": null,
             "id": 48345452,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2016-01-17T16:49:47Z",
+            "open_issues": 0,
             "owner": "zertosh",
             "repo": "class-props-codemod",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:42:24.872Z"
         },
@@ -458,12 +688,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of JSCodeshift codemod scripts for migrating code that uses deprecated Node.js APIs",
+            "homepage": null,
             "id": 121972834,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2018-02-18T17:20:30Z",
+            "open_issues": 0,
             "owner": "joyeecheung",
             "repo": "node-dep-codemod",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:42:24.872Z"
         },
@@ -474,12 +709,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Codemod scripts to transform code to next generation JS",
+            "homepage": null,
             "id": 32711479,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-02-06T10:44:10Z",
+            "open_issues": 0,
             "owner": "cpojer",
             "repo": "js-codemod",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:42:24.872Z"
         },
@@ -490,12 +730,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Convert flowtype syntax to valid JS",
+            "homepage": null,
             "id": 188242830,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2023-01-03T22:28:56Z",
+            "open_issues": 14,
             "owner": "escaton",
             "repo": "flow-comments-codemod",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:42:24.872Z"
         },
@@ -506,12 +751,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A codemod for automatically fixing issues reported by eslint-plugin-sort-class-members",
+            "homepage": null,
             "id": 84952749,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2020-05-08T12:17:51Z",
+            "open_issues": 6,
             "owner": "pastelsky",
             "repo": "sort-class-members-codemod",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "codemod",
+              "eslint",
+              "eslint-plugin",
+              "jscodeshift"
+            ]
           },
           "first_seen": "2026-08-28T23:42:24.872Z"
         },
@@ -522,12 +777,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of codemods",
+            "homepage": null,
             "id": 44203853,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2015-10-13T21:23:03Z",
+            "open_issues": 0,
             "owner": "nikgraf",
             "repo": "js-codemod",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:42:24.872Z"
         },
@@ -538,12 +798,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 57446579,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2016-10-19T06:56:07Z",
+            "open_issues": 3,
             "owner": "relekang",
             "repo": "codemods",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:42:24.872Z"
         },
@@ -554,12 +819,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code modifiers using jscodeshift",
+            "homepage": "https://www.npmjs.com/package/cuadrante-codemods",
             "id": 65685410,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2017-03-04T20:51:16Z",
+            "open_issues": 4,
             "owner": "vasco3",
             "repo": "cuadrante-codemods",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "codemod",
+              "cuadrante-codemods",
+              "ecmascript",
+              "es6-modules",
+              "jscodeshift"
+            ]
           },
           "first_seen": "2026-08-28T23:42:24.872Z"
         },
@@ -570,12 +846,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is the code for a speech at Aptisummit about codemods with jscodeshift. Also for the blog post: https://medium.com/@perjansson/codemods-with-jscodeshift-9977e646e08f",
+            "homepage": null,
             "id": 111460718,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2018-07-26T12:45:31Z",
+            "open_issues": 2,
             "owner": "perjansson",
             "repo": "aptisummit-codemods",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:42:24.872Z"
         },
@@ -586,12 +867,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Personal codemods using JSCodeShift",
+            "homepage": null,
             "id": 56996995,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2016-07-02T15:02:41Z",
+            "open_issues": 0,
             "owner": "DrewML",
             "repo": "codemods",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:42:24.872Z"
         },
@@ -602,12 +888,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple codemods to beautify your code",
+            "homepage": null,
             "id": 109952039,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2017-11-08T11:36:21Z",
+            "open_issues": 0,
             "owner": "peoplenarthax",
             "repo": "cleaner-codemods",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:42:24.872Z"
         },
@@ -618,12 +909,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 68656646,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2016-09-21T20:01:29Z",
+            "open_issues": 0,
             "owner": "zackargyle",
             "repo": "codemods",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:42:24.872Z"
         },
@@ -634,12 +930,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 87232085,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2017-04-04T20:34:52Z",
+            "open_issues": 0,
             "owner": "sergi",
             "repo": "rxjs-codemod",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:42:24.872Z"
         },
@@ -650,12 +951,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Experimental codemods",
+            "homepage": null,
             "id": 70025515,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2016-10-05T02:52:51Z",
+            "open_issues": 0,
             "owner": "dsgkirkby",
             "repo": "js-codemods",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:42:24.872Z"
         },
@@ -666,12 +972,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Codemods for great good!",
+            "homepage": null,
             "id": 72603079,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2016-11-07T21:58:47Z",
+            "open_issues": 0,
             "owner": "geekjuice",
             "repo": "autobots",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:42:24.872Z"
         },
@@ -682,12 +993,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Codemods for custom elements",
+            "homepage": null,
             "id": 161881698,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2019-02-27T06:56:03Z",
+            "open_issues": 0,
             "owner": "dogoku",
             "repo": "ce-codemods",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:42:24.872Z"
         },
@@ -698,12 +1014,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a collection of utility codemods",
+            "homepage": null,
             "id": 76064795,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2018-10-14T18:01:45Z",
+            "open_issues": 0,
             "owner": "skratchdot",
             "repo": "skratchdot-codemods",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:42:24.872Z"
         },
@@ -714,12 +1035,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Codemods for styletron",
+            "homepage": null,
             "id": 123980503,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2018-03-08T01:26:10Z",
+            "open_issues": 0,
             "owner": "styletron",
             "repo": "codemods",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:42:24.872Z"
         },
@@ -730,12 +1056,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Code for changing your code",
+            "homepage": null,
             "id": 91366042,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2018-11-08T17:10:48Z",
+            "open_issues": 1,
             "owner": "EDITD",
             "repo": "codemods",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:42:24.872Z"
         },
@@ -746,12 +1077,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 64566723,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2016-07-31T02:01:33Z",
+            "open_issues": 0,
             "owner": "bradencanderson",
             "repo": "codemods",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:42:24.872Z"
         },
@@ -762,12 +1098,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Misc refactoring codemods",
+            "homepage": null,
             "id": 129295953,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2018-04-12T18:40:21Z",
+            "open_issues": 0,
             "owner": "knoopx",
             "repo": "codemods",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:42:24.872Z"
         },
@@ -778,12 +1119,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "jscodeshift codemod collection",
+            "homepage": null,
             "id": 65556565,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2016-08-12T14:40:04Z",
+            "open_issues": 0,
             "owner": "bseber",
             "repo": "codemods",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:42:24.872Z"
         }
@@ -800,12 +1146,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "JSCodeShift codemod that transforms usage of idx to the draft optional chaining standard.",
+            "homepage": null,
             "id": 166650693,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2023-01-05T10:15:19Z",
+            "open_issues": 11,
             "owner": "cdlewis",
             "repo": "idx-to-optional-chaining",
-            "stars": 18
+            "stars": 18,
+            "topics": [
+              "codemod",
+              "flow",
+              "idx",
+              "javascript",
+              "jscodeshift",
+              "optional-chaining",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T23:42:24.872Z"
         },
@@ -816,12 +1175,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 100668605,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2019-11-06T04:09:04Z",
+            "open_issues": 1,
             "owner": "shimohq",
             "repo": "generator2async-codemod",
-            "stars": 10
+            "stars": 10,
+            "topics": [
+              "async",
+              "generator",
+              "jscodeshift"
+            ]
           },
           "first_seen": "2026-08-28T23:42:24.872Z"
         },
@@ -832,12 +1200,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Codemod to add try catch to all the async await statements",
+            "homepage": null,
             "id": 168506808,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2019-02-16T23:08:36Z",
+            "open_issues": 0,
             "owner": "vivek12345",
             "repo": "async-await-codemod",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "async-await",
+              "codemod",
+              "jscodeshift",
+              "recast"
+            ]
           },
           "first_seen": "2026-08-28T23:42:24.872Z"
         },
@@ -848,12 +1226,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Change Lodash `get` functions to ES7 optional member expressions",
+            "homepage": null,
             "id": 136752238,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2018-06-10T15:09:38Z",
+            "open_issues": 0,
             "owner": "eschaefer",
             "repo": "codemod-get-to-optional-member-expressions",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:42:24.872Z"
         },
@@ -864,12 +1247,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of codemods that allow you to transform your js code from ES5 to ES6.",
+            "homepage": "https://medium.com/@cpojer/effective-javascript-codemods-5a6686bb46fb",
             "id": 45964348,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2015-12-23T02:54:25Z",
+            "open_issues": 3,
             "owner": "jamischarles",
             "repo": "5to6",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:42:24.872Z"
         },
@@ -880,12 +1268,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Codemod to transform ES5 code to ES6/7 and uses babel plugins ",
+            "homepage": null,
             "id": 128199499,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2018-04-26T00:29:41Z",
+            "open_issues": 0,
             "owner": "rajatvijay",
             "repo": "lebab-as-babel-plugins",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:42:24.872Z"
         }
@@ -902,12 +1295,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Refactor TypScript code programmatically using codemods",
+            "homepage": null,
             "id": 211816317,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2019-10-01T22:06:01Z",
+            "open_issues": 1,
             "owner": "remojansen",
             "repo": "tsmod",
-            "stars": 96
+            "stars": 96,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:42:24.872Z"
         },
@@ -918,12 +1316,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Typescript based codemods",
+            "homepage": null,
             "id": 140876842,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2019-11-07T07:05:49Z",
+            "open_issues": 0,
             "owner": "tusharmath",
             "repo": "ts-codemod",
-            "stars": 74
+            "stars": 74,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:42:24.872Z"
         },
@@ -934,12 +1337,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "tscodeshift is a toolkit for running codemods over multiple TS files",
+            "homepage": null,
             "id": 92748187,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2017-10-05T06:17:24Z",
+            "open_issues": 0,
             "owner": "KnisterPeter",
             "repo": "tscodeshift",
-            "stars": 53
+            "stars": 53,
+            "topics": [
+              "ast-transformations",
+              "codemod",
+              "codeshift",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T23:42:24.872Z"
         },
@@ -950,12 +1363,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple codemod for helping migrate from babel to typescript. Converts default imports to wildcards.",
+            "homepage": null,
             "id": 74374726,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2019-11-20T10:52:57Z",
+            "open_issues": 0,
             "owner": "mattlewis92",
             "repo": "js-to-typescript-codemod",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:42:24.872Z"
         },
@@ -966,12 +1384,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "flow to typescript codemods",
+            "homepage": null,
             "id": 168910715,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2019-02-10T07:33:09Z",
+            "open_issues": 0,
             "owner": "albertywu",
             "repo": "flowshift",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "flow",
+              "flowtype",
+              "languages",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T23:42:24.872Z"
         },
@@ -982,12 +1410,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Combine type and value imports using Typescript 4.5 type modifier syntax",
+            "homepage": null,
             "id": 470347641,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2022-06-07T19:01:46Z",
+            "open_issues": 1,
             "owner": "IanVS",
             "repo": "type-import-codemod",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:42:24.872Z"
         },
@@ -998,12 +1431,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "collection of basic JS/React codemod scripts to prepare for TS on a codebase",
+            "homepage": null,
             "id": 92056115,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2017-05-25T17:12:54Z",
+            "open_issues": 0,
             "owner": "buildo",
             "repo": "ts-codemod-scripts",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:42:24.872Z"
         },
@@ -1014,12 +1452,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Flow to Typescript codemod",
+            "homepage": null,
             "id": 174711239,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2019-10-29T13:34:47Z",
+            "open_issues": 2,
             "owner": "MarcoPolo",
             "repo": "flowToTs",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "codemod",
+              "flowtype",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T23:42:24.872Z"
         },
@@ -1030,12 +1477,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cli for generating codemods written in Typescript.",
+            "homepage": null,
             "id": 176408616,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2019-03-20T17:18:50Z",
+            "open_issues": 0,
             "owner": "jmdejno",
             "repo": "codemod-cli-ts",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:42:24.872Z"
         }
@@ -1052,12 +1504,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Ruby CLI to transform source code using ASTs - A Ruby Codemod",
+            "homepage": null,
             "id": 204283460,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2023-02-28T10:15:56Z",
+            "open_issues": 1,
             "owner": "rajasegar",
             "repo": "codeshift",
-            "stars": 49
+            "stars": 49,
+            "topics": [
+              "codemod",
+              "codemods",
+              "gem",
+              "ruby-gem"
+            ]
           },
           "first_seen": "2026-08-28T23:42:24.872Z"
         },
@@ -1068,12 +1530,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A codemod / transpiler that can help you convert Ruby into Crystal",
+            "homepage": null,
             "id": 225697486,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2024-05-17T02:11:16Z",
+            "open_issues": 2,
             "owner": "DocSpring",
             "repo": "ruby_crystal_codemod",
-            "stars": 44
+            "stars": 44,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:42:24.872Z"
         },
@@ -1084,12 +1551,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AST Explorer for ruby",
+            "homepage": "https://ruby-ast-explorer.herokuapp.com/",
             "id": 200955040,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2023-03-01T21:33:37Z",
+            "open_issues": 26,
             "owner": "rajasegar",
             "repo": "ruby-ast-explorer",
-            "stars": 17
+            "stars": 17,
+            "topics": [
+              "abstract-syntax-tree",
+              "ast",
+              "ast-explorer",
+              "codemod",
+              "parser",
+              "ruby"
+            ]
           },
           "first_seen": "2026-08-28T23:42:24.872Z"
         },
@@ -1100,12 +1579,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cybertron is where Ruby Transformers are born!",
+            "homepage": null,
             "id": 208790004,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2025-07-22T06:02:19Z",
+            "open_issues": 1,
             "owner": "rajasegar",
             "repo": "cybertron",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "cli",
+              "codemod",
+              "codemods",
+              "converters",
+              "cybertron",
+              "ruby"
+            ]
           },
           "first_seen": "2026-08-28T23:42:24.872Z"
         }
@@ -1124,12 +1615,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "React codemod scripts",
+                "homepage": null,
                 "id": 44563064,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-02-22T23:10:31Z",
+                "open_issues": 57,
                 "owner": "reactjs",
                 "repo": "react-codemod",
-                "stars": 4411
+                "stars": 4411,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:42:24.872Z"
             },
@@ -1140,12 +1636,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Easily migrate your existing React codebase to use i18n",
+                "homepage": null,
                 "id": 169907573,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-06-18T06:17:39Z",
+                "open_issues": 9,
                 "owner": "sibelius",
                 "repo": "ast-i18n",
-                "stars": 231
+                "stars": 231,
+                "topics": [
+                  "ast",
+                  "codemod",
+                  "i18n",
+                  "react"
+                ]
               },
               "first_seen": "2026-08-28T23:42:24.872Z"
             },
@@ -1156,12 +1662,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Codemod to update import declarations as per react-native > 0.59.x deprecations.",
+                "homepage": null,
                 "id": 180129919,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2023-01-03T19:44:28Z",
+                "open_issues": 16,
                 "owner": "lucasbento",
                 "repo": "rn-update-deprecated-modules",
-                "stars": 72
+                "stars": 72,
+                "topics": [
+                  "cli",
+                  "codemod",
+                  "react-native"
+                ]
               },
               "first_seen": "2026-08-28T23:42:24.872Z"
             },
@@ -1172,12 +1687,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Codemod scripts for Rackt libraries",
+                "homepage": null,
                 "id": 47506078,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2018-02-05T05:52:13Z",
+                "open_issues": 1,
                 "owner": "reactjs",
                 "repo": "rackt-codemod",
-                "stars": 39
+                "stars": 39,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:42:24.872Z"
             },
@@ -1188,12 +1708,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This plugin transforms react-hyperscript into JSX. Intended to be used as codemod.",
+                "homepage": null,
                 "id": 124455036,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-01-04T21:42:41Z",
+                "open_issues": 14,
                 "owner": "RIP21",
                 "repo": "babel-plugin-hyperscript-to-jsx",
-                "stars": 20
+                "stars": 20,
+                "topics": [
+                  "babel",
+                  "babel-codemod",
+                  "babel-plugin",
+                  "babel-plugin-hyperscript",
+                  "codemod",
+                  "hyperscript",
+                  "jsx",
+                  "react"
+                ]
               },
               "first_seen": "2026-08-28T23:42:24.872Z"
             },
@@ -1204,12 +1738,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 87612146,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2017-04-08T06:18:11Z",
+                "open_issues": 0,
                 "owner": "jamiebuilds",
                 "repo": "codemod-react-proptypes-to-flow",
-                "stars": 18
+                "stars": 18,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:42:24.872Z"
             },
@@ -1220,12 +1759,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A toolkit provide some codemod scripts based on jscodeshift to migrating react code base to typesceipt",
+                "homepage": null,
                 "id": 111188368,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2018-04-25T15:14:33Z",
+                "open_issues": 0,
                 "owner": "sjy",
                 "repo": "js2tsx",
-                "stars": 17
+                "stars": 17,
+                "topics": [
+                  "codemod",
+                  "jscodeshift",
+                  "react",
+                  "refactory",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T23:42:24.872Z"
             },
@@ -1236,12 +1786,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Codemods for migrating metal-jsx to react",
+                "homepage": null,
                 "id": 152621037,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2019-03-08T18:17:22Z",
+                "open_issues": 3,
                 "owner": "bryceosterhaus",
                 "repo": "metal-to-react",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:42:24.872Z"
             },
@@ -1252,12 +1807,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "JS/React transforms because life is too short",
+                "homepage": null,
                 "id": 158047184,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2026-01-30T21:51:10Z",
+                "open_issues": 0,
                 "owner": "yannvr",
                 "repo": "codemods",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:42:24.872Z"
             },
@@ -1268,12 +1828,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A codemod for migrating off of coffee-react CJSX",
+                "homepage": null,
                 "id": 69847615,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2016-10-03T06:56:48Z",
+                "open_issues": 0,
                 "owner": "jsdf",
                 "repo": "cjsx-codemod",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:42:24.872Z"
             },
@@ -1284,12 +1849,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Converts React components using imported CSS stylesheets to equivalent CSS Modules syntax.",
+                "homepage": null,
                 "id": 168228004,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2019-01-29T22:07:26Z",
+                "open_issues": 0,
                 "owner": "Craga89",
                 "repo": "babel-plugin-codemod-react-css-modules",
-                "stars": 7
+                "stars": 7,
+                "topics": [
+                  "babel",
+                  "babel-codemod",
+                  "babel-plugin",
+                  "babel-plugin-codemod",
+                  "codemod",
+                  "codemods",
+                  "javascript",
+                  "react",
+                  "reactjs",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T23:42:24.872Z"
             },
@@ -1300,12 +1881,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 170016418,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2019-02-10T19:23:00Z",
+                "open_issues": 1,
                 "owner": "sibelius",
                 "repo": "react-hot-loader-codemod",
-                "stars": 5
+                "stars": 5,
+                "topics": [
+                  "codemod",
+                  "react",
+                  "react-hot-loader"
+                ]
               },
               "first_seen": "2026-08-28T23:42:24.872Z"
             },
@@ -1316,12 +1906,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Codemods to help consumers of over_react automate the migration of UI component code.",
+                "homepage": null,
                 "id": 143073092,
                 "language": "Dart",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T21:59:05Z",
+                "open_issues": 14,
                 "owner": "Workiva",
                 "repo": "over_react_codemod",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:42:24.872Z"
             },
@@ -1332,12 +1927,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 140567013,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2018-09-03T10:21:42Z",
+                "open_issues": 0,
                 "owner": "callstack",
                 "repo": "react-native-paper-codemod",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:42:24.872Z"
             },
@@ -1348,12 +1948,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A react codemod to transform stateless/pure/functional components to class components.",
+                "homepage": null,
                 "id": 130397940,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2018-04-21T10:39:48Z",
+                "open_issues": 2,
                 "owner": "orzarchi",
                 "repo": "react-codemod-pure-component-to-class",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:42:24.872Z"
             },
@@ -1364,12 +1969,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "code modifiers scripts which work with jscodeshift",
+                "homepage": null,
                 "id": 130538379,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2018-05-10T14:35:02Z",
+                "open_issues": 0,
                 "owner": "mukeshsoni",
                 "repo": "codemods",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:42:24.872Z"
             },
@@ -1380,12 +1990,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fix inline styles in react native components",
+                "homepage": null,
                 "id": 158998485,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2018-12-11T17:23:18Z",
+                "open_issues": 1,
                 "owner": "ignacioola",
                 "repo": "react-native-fix-inline-styles",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "codemod",
+                  "jscodeshift",
+                  "react",
+                  "react-native"
+                ]
               },
               "first_seen": "2026-08-28T23:42:24.872Z"
             },
@@ -1396,12 +2016,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A boilerplate of JS 5/6/7 transforms for react/redux/js/etc....",
+                "homepage": null,
                 "id": 92545397,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2017-05-27T04:24:19Z",
+                "open_issues": 1,
                 "owner": "nicholas-b-carter",
                 "repo": "js-react-codemods",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:42:24.872Z"
             },
@@ -1412,12 +2037,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Codemod to tranform react proptypes to flow",
+                "homepage": null,
                 "id": 107233656,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2022-12-07T11:58:23Z",
+                "open_issues": 4,
                 "owner": "mikhail-hatsilau",
                 "repo": "proptypes-to-flow-codemod",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "codemod",
+                  "flow",
+                  "proptypes",
+                  "react"
+                ]
               },
               "first_seen": "2026-08-28T23:42:24.872Z"
             },
@@ -1428,12 +2063,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A codemod to migrate to MobX-State-Tree 0.10 from previous versions",
+                "homepage": null,
                 "id": 100600369,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2017-08-17T14:46:56Z",
+                "open_issues": 0,
                 "owner": "mobxjs",
                 "repo": "mst-codemod-to-0.10",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:42:24.872Z"
             },
@@ -1444,12 +2084,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Remove the react-with-hooks library code when React 16.7.0 is released",
+                "homepage": null,
                 "id": 158000994,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2018-11-18T20:46:24Z",
+                "open_issues": 0,
                 "owner": "polizz",
                 "repo": "react-with-hooks-removal-codemod",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:42:24.872Z"
             },
@@ -1460,12 +2105,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "append px to shorthand values in style objects in react in prep for react 15 warning",
+                "homepage": null,
                 "id": 55354901,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2016-04-04T16:43:42Z",
+                "open_issues": 0,
                 "owner": "conorhastings",
                 "repo": "react-style-px-suffix-codemod",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:42:24.872Z"
             },
@@ -1476,12 +2126,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 52089848,
                 "language": "JavaScript",
+                "license": "BSD-2-Clause",
                 "last_commit": "2016-02-19T14:25:11Z",
+                "open_issues": 0,
                 "owner": "denvned",
                 "repo": "codemod",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:42:24.872Z"
             }
@@ -1499,12 +2154,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An Ember.js codemod to make upgrades automatic. ",
+                "homepage": "https://blog.abuiles.com/ember-watson/",
                 "id": 31298381,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-12-30T18:43:29Z",
+                "open_issues": 30,
                 "owner": "abuiles",
                 "repo": "ember-watson",
-                "stars": 303
+                "stars": 303,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:42:24.872Z"
             },
@@ -1515,12 +2175,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Migrate ember-i18n to ember-intl",
+                "homepage": null,
                 "id": 134894001,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2020-01-22T21:45:25Z",
+                "open_issues": 3,
                 "owner": "DockYard",
                 "repo": "ember-i18n-to-intl-migrator",
-                "stars": 21
+                "stars": 21,
+                "topics": [
+                  "codemod",
+                  "ember-i18n",
+                  "ember-intl"
+                ]
               },
               "first_seen": "2026-08-28T23:42:24.872Z"
             },
@@ -1531,12 +2200,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A WIP jscodeshift codemod to destructure assignments of props, state, and context",
+                "homepage": null,
                 "id": 145163952,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2019-02-02T18:55:11Z",
+                "open_issues": 1,
                 "owner": "thibaudcolas",
                 "repo": "react-destructuring-assignment-codemod",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:42:24.872Z"
             },
@@ -1547,12 +2221,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A codemode for fixing the ember-test-selectors testSelector helper deprecation",
+                "homepage": null,
                 "id": 101436769,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2018-05-29T06:23:49Z",
+                "open_issues": 0,
                 "owner": "lorcan",
                 "repo": "test-selectors-codemod",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:42:24.872Z"
             },
@@ -1563,12 +2242,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Codemods for converting uses of action to the {{on}} modifier",
+                "homepage": null,
                 "id": 192796034,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2023-01-04T21:49:02Z",
+                "open_issues": 14,
                 "owner": "lennyburdette",
                 "repo": "ember-action-codemods",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:42:24.872Z"
             },
@@ -1579,12 +2263,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Removes all usages of Ember.K",
+                "homepage": null,
                 "id": 74528270,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2018-07-04T11:34:24Z",
+                "open_issues": 2,
                 "owner": "cibernox",
                 "repo": "ember-k-codemod",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:42:24.872Z"
             },
@@ -1595,12 +2284,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Codemod to update ember-computed-decorators to ember-decorators",
+                "homepage": null,
                 "id": 147756205,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2018-09-10T19:01:04Z",
+                "open_issues": 0,
                 "owner": "bwittenbrook3",
                 "repo": "ember-computed-decorators-codemod",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:42:24.872Z"
             },
@@ -1611,12 +2305,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 145460959,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2019-04-23T22:42:08Z",
+                "open_issues": 5,
                 "owner": "caseywatts",
                 "repo": "ember-cli-mirage-faker-codemod",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:42:24.872Z"
             },
@@ -1627,12 +2326,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ember codemods.",
+                "homepage": null,
                 "id": 177450999,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2019-04-01T17:51:31Z",
+                "open_issues": 0,
                 "owner": "jmdejno",
                 "repo": "lil-codemods",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:42:24.872Z"
             },
@@ -1643,12 +2347,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A codemod for migrating Ember Component code from `this.$()` to `$(this.element)`",
+                "homepage": null,
                 "id": 216751120,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2023-01-04T23:12:19Z",
+                "open_issues": 17,
                 "owner": "patocallaghan",
                 "repo": "ember-component-jquery",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:42:24.872Z"
             },
@@ -1659,12 +2368,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ember code transforms.",
+                "homepage": null,
                 "id": 176186508,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2019-03-18T15:47:57Z",
+                "open_issues": 0,
                 "owner": "jmdejno",
                 "repo": "ember-codemods",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:42:24.872Z"
             },
@@ -1675,12 +2389,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 157714184,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2018-12-20T10:27:05Z",
+                "open_issues": 0,
                 "owner": "patocallaghan",
                 "repo": "legacy-tests-codemod",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:42:24.872Z"
             }
@@ -1698,12 +2417,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":shaved_ice: Shave some bytes by using Preact.",
+                "homepage": null,
                 "id": 65661776,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2018-05-04T08:10:23Z",
+                "open_issues": 1,
                 "owner": "vutran",
                 "repo": "preact-codemod",
-                "stars": 40
+                "stars": 40,
+                "topics": [
+                  "codemod",
+                  "javascript",
+                  "jscodeshift",
+                  "preact",
+                  "react",
+                  "transpiler"
+                ]
               },
               "first_seen": "2026-08-28T23:42:24.872Z"
             }
@@ -1721,12 +2452,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Collection of codemod scripts that help update and refactor Vue and JavaScript files.",
+                "homepage": null,
                 "id": 202798469,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-01-06T02:05:25Z",
+                "open_issues": 11,
                 "owner": "SergioCrisostomo",
                 "repo": "vue-codemods",
-                "stars": 25
+                "stars": 25,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:42:24.872Z"
             }
@@ -1750,12 +2486,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Codemod to migrate from Lodash get and logical and expressions to optional chaining",
+                "homepage": null,
                 "id": 155118732,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-03-04T04:15:28Z",
+                "open_issues": 15,
                 "owner": "villesau",
                 "repo": "optional-chaining-codemod",
-                "stars": 113
+                "stars": 113,
+                "topics": [
+                  "codemod",
+                  "codemods",
+                  "es6",
+                  "es7",
+                  "javascript",
+                  "jscodeshift",
+                  "optional-chaining",
+                  "transform"
+                ]
               },
               "first_seen": "2026-08-28T23:42:24.872Z"
             },
@@ -1766,12 +2516,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Codemods to simplify upgrading Lodash versions",
+                "homepage": null,
                 "id": 58758181,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2017-01-19T22:09:16Z",
+                "open_issues": 9,
                 "owner": "jfmengels",
                 "repo": "lodash-codemods",
-                "stars": 32
+                "stars": 32,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:42:24.872Z"
             },
@@ -1782,12 +2537,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Codemod to replace lodash for lodash/fp",
+                "homepage": null,
                 "id": 59320568,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2016-05-24T13:33:35Z",
+                "open_issues": 0,
                 "owner": "gunar",
                 "repo": "js-transforms",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:42:24.872Z"
             },
@@ -1798,12 +2558,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 103161833,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-08-16T12:16:05Z",
+                "open_issues": 0,
                 "owner": "dgrijuela",
                 "repo": "modular-lodash-codemod",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:42:24.872Z"
             },
@@ -1814,12 +2579,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "collection of codemods",
+                "homepage": null,
                 "id": 65098873,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2016-08-09T16:12:48Z",
+                "open_issues": 2,
                 "owner": "k4b7",
                 "repo": "codemods",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:42:24.872Z"
             },
@@ -1830,12 +2600,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 45627197,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2015-11-07T18:49:04Z",
+                "open_issues": 0,
                 "owner": "OliverJAsh",
                 "repo": "lodash-to-lodash-amd-codemods",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:42:24.872Z"
             }
@@ -1853,12 +2628,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Convert Mochan TDD with Chai assert tests to Jest",
+                "homepage": null,
                 "id": 72994471,
                 "language": "JavaScript",
+                "license": "BSD-3-Clause",
                 "last_commit": "2016-12-04T20:24:26Z",
+                "open_issues": 0,
                 "owner": "paularmstrong",
                 "repo": "mocha-to-jest-codemod",
-                "stars": 42
+                "stars": 42,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:42:24.872Z"
             },
@@ -1869,12 +2649,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "codemod for mocha tests",
+                "homepage": null,
                 "id": 95103312,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2017-07-04T04:25:22Z",
+                "open_issues": 0,
                 "owner": "shimohq",
                 "repo": "mocha2ava-codemod",
-                "stars": 4
+                "stars": 4,
+                "topics": [
+                  "ava",
+                  "code",
+                  "jscodeshift",
+                  "migration",
+                  "mocha"
+                ]
               },
               "first_seen": "2026-08-28T23:42:24.872Z"
             },
@@ -1885,12 +2676,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Codemods for Typescript",
+                "homepage": null,
                 "id": 701789208,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2023-10-20T19:50:22Z",
+                "open_issues": 1,
                 "owner": "labarilem",
                 "repo": "ts-codemods",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:42:24.872Z"
             }
@@ -1908,12 +2704,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "jscodeshift wrapper to write smaller and better tests for your codemods using AVA",
+                "homepage": null,
                 "id": 64325318,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2017-01-14T23:40:32Z",
+                "open_issues": 0,
                 "owner": "jfmengels",
                 "repo": "jscodeshift-ava-tester",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:42:24.872Z"
             }
@@ -1931,12 +2732,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Automatic codemods to upgrade your styled-components code to newer versions.",
+                "homepage": null,
                 "id": 151055172,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-07-07T20:17:17Z",
+                "open_issues": 11,
                 "owner": "styled-components",
                 "repo": "styled-components-codemods",
-                "stars": 52
+                "stars": 52,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:42:24.872Z"
             },
@@ -1947,12 +2753,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Codemod to migrate deprecated .extend API in favor of only styled functions.  ",
+                "homepage": null,
                 "id": 146295548,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2018-11-12T16:35:29Z",
+                "open_issues": 0,
                 "owner": "RIP21",
                 "repo": "styled-components-v3-to-v4-codemod",
-                "stars": 7
+                "stars": 7,
+                "topics": [
+                  "babel-codemod",
+                  "codemod",
+                  "styled-components",
+                  "v4"
+                ]
               },
               "first_seen": "2026-08-28T23:42:24.872Z"
             }
@@ -1970,12 +2786,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🐊  Pluggable and configurable JavaScript Linter, code transformer and formatter with superpowers 💪: built-in support of js, jsx, ts, markdown, yaml, toml, json and ignore. Write declarative codemods in a simplest possible way 😏",
+                "homepage": "https://putout.cloudcmd.io/",
                 "id": 159849469,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T21:42:54Z",
+                "open_issues": 0,
                 "owner": "coderaiser",
                 "repo": "putout",
-                "stars": 796
+                "stars": 796,
+                "topics": [
+                  "ast",
+                  "babel",
+                  "babel-plugin",
+                  "codemod",
+                  "codemods",
+                  "codeshift",
+                  "eslint",
+                  "eslint-plugin",
+                  "eslint-rules",
+                  "hacktoberfest",
+                  "javascript",
+                  "linter",
+                  "nodejs",
+                  "parser",
+                  "plugin",
+                  "putout",
+                  "putout-plugin",
+                  "recast",
+                  "static-code-analysis",
+                  "transform"
+                ]
               },
               "first_seen": "2026-08-28T23:42:24.872Z"
             },
@@ -1986,12 +2828,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Codemods to migrate to react-router v6",
+                "homepage": null,
                 "id": 585515119,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-01-09T11:26:51Z",
+                "open_issues": 2,
                 "owner": "rajasegar",
                 "repo": "react-router-v6-codemods",
-                "stars": 10
+                "stars": 10,
+                "topics": [
+                  "codemod",
+                  "codemods",
+                  "react",
+                  "react-router"
+                ]
               },
               "first_seen": "2026-08-28T23:42:24.872Z"
             },
@@ -2002,12 +2854,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Codemods for migrating react-router to v4",
+                "homepage": null,
                 "id": 586305500,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-01-08T06:32:36Z",
+                "open_issues": 0,
                 "owner": "rajasegar",
                 "repo": "react-router-v4-codemods",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "codemod",
+                  "codemods",
+                  "react",
+                  "react-router"
+                ]
               },
               "first_seen": "2026-08-28T23:42:24.872Z"
             }
@@ -2025,12 +2887,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.",
+                "homepage": "https://mui.com/material-ui/",
                 "id": 23083156,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T02:03:40Z",
+                "open_issues": 1488,
                 "owner": "mui",
                 "repo": "material-ui",
-                "stars": 98958
+                "stars": 98958,
+                "topics": [
+                  "design-system",
+                  "material-design",
+                  "material-ui",
+                  "react",
+                  "react-components"
+                ]
               },
               "first_seen": "2026-08-28T23:42:24.872Z"
             }
@@ -2048,12 +2921,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "codemod cli for antd v4 upgrade",
+                "homepage": null,
                 "id": 221335429,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-11-24T15:57:56Z",
+                "open_issues": 55,
                 "owner": "ant-design",
                 "repo": "codemod-v4",
-                "stars": 99
+                "stars": 99,
+                "topics": [
+                  "antd",
+                  "antd4",
+                  "cli",
+                  "codemod",
+                  "jscodeshift"
+                ]
               },
               "first_seen": "2026-08-28T23:42:24.872Z"
             },
@@ -2064,12 +2948,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "antd codemod scripts.",
+                "homepage": null,
                 "id": 74429931,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2021-03-01T14:42:47Z",
+                "open_issues": 8,
                 "owner": "ant-design",
                 "repo": "antd-codemod",
-                "stars": 20
+                "stars": 20,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:42:24.872Z"
             },
@@ -2080,12 +2969,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "codemod cli for antd v5 upgrade",
+                "homepage": null,
                 "id": 569520550,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-04-19T06:03:40Z",
+                "open_issues": 10,
                 "owner": "ant-design",
                 "repo": "codemod-v5",
-                "stars": 18
+                "stars": 18,
+                "topics": [
+                  "ant-design-v5",
+                  "antd",
+                  "antd-design",
+                  "codemod",
+                  "jscodeshift",
+                  "postcss"
+                ]
               },
               "first_seen": "2026-08-28T23:42:24.872Z"
             }
@@ -2107,12 +3008,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Codemods for Lightning Web Components",
+            "homepage": "https://lwc.dev",
             "id": 439147882,
             "language": "JavaScript",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-04T14:09:10Z",
+            "open_issues": 5,
             "owner": "salesforce",
             "repo": "lwc-codemod",
-            "stars": 20
+            "stars": 20,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:42:24.872Z"
         },
@@ -2123,12 +3029,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A collection of Codemods written with JSCodeshift that will help update our old, crusty JavaScript to nice, clean JavaScript.",
+            "homepage": null,
             "id": 78036926,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2018-03-07T02:11:08Z",
+            "open_issues": 1,
             "owner": "Shopify",
             "repo": "shopify-codemod",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:42:24.872Z"
         },
@@ -2139,12 +3050,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Because Code Changes and Evolves",
+            "homepage": null,
             "id": 70191223,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-01-12T06:11:16Z",
+            "open_issues": 11,
             "owner": "uber-web",
             "repo": "uber-codemods",
-            "stars": 12
+            "stars": 12,
+            "topics": [
+              "codemod",
+              "javascript",
+              "jscodeshift"
+            ]
           },
           "first_seen": "2026-08-28T23:42:24.872Z"
         },
@@ -2155,12 +3075,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Various codemods used around Artsy",
+            "homepage": null,
             "id": 190124245,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-11-10T17:08:59Z",
+            "open_issues": 2,
             "owner": "artsy",
             "repo": "codemods",
-            "stars": 11
+            "stars": 11,
+            "topics": [
+              "babel-plugin",
+              "jscodeshift"
+            ]
           },
           "first_seen": "2026-08-28T23:42:24.872Z"
         },
@@ -2171,12 +3099,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 198418988,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2026-03-27T07:15:51Z",
+            "open_issues": 10,
             "owner": "freshworks-oss",
             "repo": "ember-freshdesk-codemods",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:42:24.872Z"
         },
@@ -2187,12 +3120,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of codemods we use at tune.",
+            "homepage": null,
             "id": 78062704,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2017-01-31T17:51:09Z",
+            "open_issues": 0,
             "owner": "TUNE-Archive",
             "repo": "tune-codemods",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:42:24.872Z"
         },
@@ -2203,12 +3141,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Yapp's codemods",
+            "homepage": null,
             "id": 153687676,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2018-10-18T21:10:42Z",
+            "open_issues": 0,
             "owner": "yappbox",
             "repo": "yapp-codemods",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:42:24.872Z"
         },
@@ -2219,12 +3162,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Random codemods that we have run",
+            "homepage": null,
             "id": 91103659,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2017-05-12T15:12:36Z",
+            "open_issues": 0,
             "owner": "civicsource",
             "repo": "codemod",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:42:24.872Z"
         }
@@ -2241,12 +3189,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "VSCode extension for doing codemod on selected text",
+            "homepage": null,
             "id": 104521671,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2017-12-03T22:04:57Z",
+            "open_issues": 6,
             "owner": "mikaelbr",
             "repo": "vscodemod",
-            "stars": 30
+            "stars": 30,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:42:24.872Z"
         },
@@ -2257,12 +3210,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Atom plugin for running codemods",
+            "homepage": "https://atom.io/packages/codemod",
             "id": 57918954,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2017-05-24T10:46:03Z",
+            "open_issues": 25,
             "owner": "rosswarren",
             "repo": "atom-codemod",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:42:24.872Z"
         },
@@ -2273,12 +3231,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "simple commands to apply specific Babel plugins/codemods on your code",
+            "homepage": null,
             "id": 55472735,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2016-04-05T06:56:28Z",
+            "open_issues": 0,
             "owner": "nmn",
             "repo": "atom-codemod",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:42:24.872Z"
         }
@@ -2295,12 +3258,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Codemods for your project config files",
+            "homepage": "https://mrm.js.org/",
             "id": 76292522,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-10-30T07:45:39Z",
+            "open_issues": 11,
             "owner": "sapegin",
             "repo": "mrm",
-            "stars": 1646
+            "stars": 1646,
+            "topics": [
+              "cli",
+              "codemod",
+              "config",
+              "dotfiles",
+              "hacktoberfest",
+              "opensource",
+              "scaffold",
+              "template"
+            ]
           },
           "first_seen": "2026-08-28T23:42:24.872Z"
         },
@@ -2311,12 +3288,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A tool to automatically fix Django deprecations.",
+            "homepage": "https://django-codemod.readthedocs.io",
             "id": 261884067,
             "language": "Python",
-            "last_commit": "2026-08-28T21:55:35Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T02:41:27Z",
+            "open_issues": 8,
             "owner": "browniebroke",
             "repo": "django-codemod",
-            "stars": 190
+            "stars": 190,
+            "topics": [
+              "codemod",
+              "django",
+              "libcst",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T23:42:24.872Z"
         },
@@ -2327,12 +3314,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Codemod to convert React PropTypes to TypeScript types.",
+            "homepage": "https://mskelton.dev/ratchet",
             "id": 265410678,
             "language": "TypeScript",
+            "license": "ISC",
             "last_commit": "2024-04-07T19:56:22Z",
+            "open_issues": 5,
             "owner": "mskelton",
             "repo": "ratchet",
-            "stars": 145
+            "stars": 145,
+            "topics": [
+              "codemod",
+              "convert-react-proptypes",
+              "prop-types",
+              "proptypes",
+              "react",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T23:42:24.872Z"
         },
@@ -2343,12 +3342,20 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": " codemod transformations to help upgrade Next.js codebases",
+            "homepage": null,
             "id": 136976604,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2020-09-13T12:28:08Z",
+            "open_issues": 2,
             "owner": "vercel",
             "repo": "next-codemod",
-            "stars": 69
+            "stars": 69,
+            "topics": [
+              "codemod",
+              "nextjs"
+            ]
           },
           "first_seen": "2026-08-28T23:42:24.872Z"
         },
@@ -2359,12 +3366,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Node.js/Javascript codemods used at @entria",
+            "homepage": null,
             "id": 99704948,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2025-05-11T13:54:53Z",
+            "open_issues": 0,
             "owner": "woovibr",
             "repo": "codemods",
-            "stars": 44
+            "stars": 44,
+            "topics": [
+              "codemod"
+            ]
           },
           "first_seen": "2026-08-28T23:42:24.872Z"
         },
@@ -2375,12 +3389,20 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A set of scripts to help migrate Strapi plugins (and in some cases Strapi applications) from v3 to v4",
+            "homepage": null,
             "id": 416827949,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2023-11-02T15:52:50Z",
+            "open_issues": 6,
             "owner": "strapi",
             "repo": "codemods",
-            "stars": 43
+            "stars": 43,
+            "topics": [
+              "hacktoberfest",
+              "hacktoberfest2022"
+            ]
           },
           "first_seen": "2026-08-28T23:42:24.872Z"
         },
@@ -2391,12 +3413,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Transform .graphql to graphql-js typescript",
+            "homepage": null,
             "id": 196987800,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2023-01-04T13:46:46Z",
+            "open_issues": 20,
             "owner": "sibelius",
             "repo": "graphql2ts",
-            "stars": 41
+            "stars": 41,
+            "topics": [
+              "ast",
+              "code-first",
+              "codemod",
+              "graphql"
+            ]
           },
           "first_seen": "2026-08-28T23:42:24.872Z"
         },
@@ -2407,12 +3439,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A codemod to migrate existing React or Preact codebases from glamorous to emotion.",
+            "homepage": "https://astexplorer.net/#/gist/7bc4771564a12c9f93c4904b3934aa1c/latest",
             "id": 137619008,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-01-04T09:27:40Z",
+            "open_issues": 4,
             "owner": "TejasQ",
             "repo": "babel-plugin-glamorous-to-emotion",
-            "stars": 34
+            "stars": 34,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:42:24.872Z"
         },
@@ -2423,12 +3460,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A small PHP toolkit for running codemods (code transformations) over multiple PHP files.",
+            "homepage": null,
             "id": 127982384,
             "language": "PHP",
+            "license": "NOASSERTION",
             "last_commit": "2022-10-23T19:41:41Z",
+            "open_issues": 0,
             "owner": "Atanamo",
             "repo": "PHP-Codeshift",
-            "stars": 32
+            "stars": 32,
+            "topics": [
+              "automated",
+              "codemod",
+              "parser",
+              "php",
+              "refactoring",
+              "transform"
+            ]
           },
           "first_seen": "2026-08-28T23:42:24.872Z"
         },
@@ -2439,12 +3488,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "JS Codemod to automatically convert webpack config from v1 to v2",
+            "homepage": null,
             "id": 79997196,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2017-01-27T16:46:39Z",
+            "open_issues": 0,
             "owner": "okonet",
             "repo": "webpack-codemods",
-            "stars": 31
+            "stars": 31,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:42:24.872Z"
         },
@@ -2455,12 +3509,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A codemod to transform Protractor into WebdriverIO tests",
+            "homepage": null,
             "id": 355162618,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-07-15T11:26:27Z",
+            "open_issues": 18,
             "owner": "webdriverio",
             "repo": "codemod",
-            "stars": 28
+            "stars": 28,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:42:24.872Z"
         },
@@ -2471,12 +3530,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Generate codemods by specifying your starting -> desired JavaScript.",
+            "homepage": null,
             "id": 121311316,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2018-02-28T01:36:05Z",
+            "open_issues": 0,
             "owner": "noahsug",
             "repo": "gen-codemod",
-            "stars": 22
+            "stars": 22,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:42:24.872Z"
         },
@@ -2487,12 +3551,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "jscodeshift-powered mithril@0.2.x to mithril@1.x transformations",
+            "homepage": null,
             "id": 67746665,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2017-05-02T16:28:08Z",
+            "open_issues": 3,
             "owner": "MithrilJS",
             "repo": "mithril-codemods",
-            "stars": 20
+            "stars": 20,
+            "topics": [
+              "mithril",
+              "porting",
+              "transformations"
+            ]
           },
           "first_seen": "2026-08-28T23:42:24.872Z"
         },
@@ -2503,12 +3576,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Flow codemod scripts",
+            "homepage": null,
             "id": 60132126,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2019-07-15T15:19:18Z",
+            "open_issues": 2,
             "owner": "flow",
             "repo": "flow-codemod",
-            "stars": 15
+            "stars": 15,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:42:24.872Z"
         },
@@ -2519,12 +3597,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "codemod to localize static strings",
+            "homepage": null,
             "id": 140115397,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2018-07-21T03:24:51Z",
+            "open_issues": 3,
             "owner": "amerani",
             "repo": "babel-plugin-localize",
-            "stars": 12
+            "stars": 12,
+            "topics": [
+              "babel",
+              "codemod",
+              "localization"
+            ]
           },
           "first_seen": "2026-08-28T23:42:24.872Z"
         },
@@ -2535,12 +3622,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code mods for upgrading date-fns versions",
+            "homepage": null,
             "id": 200801654,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2023-01-04T06:24:52Z",
+            "open_issues": 14,
             "owner": "date-fns",
             "repo": "date-fns-upgrade-codemod",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:42:24.872Z"
         },
@@ -2551,12 +3643,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A generator to create codemods quickly.",
+            "homepage": null,
             "id": 56418675,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2016-04-19T05:30:44Z",
+            "open_issues": 4,
             "owner": "jamestalmage",
             "repo": "generator-codemod",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:42:24.872Z"
         },
@@ -2567,12 +3664,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Create Codemod App, a codemod generator and runner",
+            "homepage": null,
             "id": 208684054,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2023-01-04T10:56:30Z",
+            "open_issues": 13,
             "owner": "dangreenisrael",
             "repo": "create-codemod-app",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:42:24.872Z"
         },
@@ -2583,12 +3685,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of codemods to upgrade your RxDart code from one version to the next",
+            "homepage": null,
             "id": 224296139,
             "language": "Dart",
+            "license": "MIT",
             "last_commit": "2019-11-28T13:15:28Z",
+            "open_issues": 2,
             "owner": "brianegan",
             "repo": "rxdart_codemod",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:42:24.872Z"
         },
@@ -2599,12 +3706,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Codemod scripts for Titanium Applications",
+            "homepage": null,
             "id": 171467949,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2023-01-03T16:32:31Z",
+            "open_issues": 14,
             "owner": "ewanharris",
             "repo": "titanium-codemods",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:42:24.872Z"
         },
@@ -2615,12 +3727,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "My codemodes for jscodeshift",
+            "homepage": null,
             "id": 188671434,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2024-11-11T08:23:31Z",
+            "open_issues": 0,
             "owner": "myshov",
             "repo": "codemodes-tycoon",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:42:24.872Z"
         },
@@ -2631,12 +3748,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CLI & codemod scripts for upgrading to CanJS 3, 4 and 5",
+            "homepage": "https://canjs.com/doc/guides/upgrade/using-codemods.html",
             "id": 85086233,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2021-11-23T01:57:38Z",
+            "open_issues": 23,
             "owner": "canjs",
             "repo": "can-migrate",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:42:24.872Z"
         },
@@ -2647,12 +3769,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":tea: Codemod for jscodeshift to migrate your tests from Jasmine to Chai syntax",
+            "homepage": null,
             "id": 63315041,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2017-12-28T12:53:24Z",
+            "open_issues": 0,
             "owner": "vansosnin",
             "repo": "jasmine-to-chai-codemod",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "chai-codemod",
+              "codemod",
+              "jasmine-codemod",
+              "javascript",
+              "jscodeshift"
+            ]
           },
           "first_seen": "2026-08-28T23:42:24.872Z"
         },
@@ -2663,12 +3796,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "easily build codemod CLIs using jscodeshift. fork of lib-upgrader",
+            "homepage": null,
             "id": 125410488,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-01-03T16:22:55Z",
+            "open_issues": 17,
             "owner": "benmonro",
             "repo": "pkg-upgrader",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:42:24.872Z"
         },
@@ -2679,12 +3817,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Use direct imports to save JS bundle size",
+            "homepage": null,
             "id": 166872106,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2019-01-21T21:09:22Z",
+            "open_issues": 1,
             "owner": "limpbrains",
             "repo": "direct-import-codemod",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "codemod",
+              "import",
+              "js"
+            ]
           },
           "first_seen": "2026-08-28T23:42:24.872Z"
         },
@@ -2695,12 +3842,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A jscodeshift transform that helps migrating GNOME Shell extensions to 3.32",
+            "homepage": null,
             "id": 176717770,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2019-05-16T03:54:27Z",
+            "open_issues": 0,
             "owner": "zhanghai",
             "repo": "gnome-shell-extension-es6-class-codemod",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "gnome-shell",
+              "gnome-shell-extension",
+              "javascript",
+              "jscodeshift"
+            ]
           },
           "first_seen": "2026-08-28T23:42:24.872Z"
         },
@@ -2711,12 +3868,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A yeoman generator for a jscodeshift codemod.",
+            "homepage": null,
             "id": 112382275,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2018-04-14T22:26:47Z",
+            "open_issues": 1,
             "owner": "scalvert",
             "repo": "generator-jscodeshift",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:42:24.872Z"
         },
@@ -2727,12 +3889,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Helpers to migrate your code to newer versions of Views Tools",
+            "homepage": null,
             "id": 120194498,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2023-01-27T02:14:12Z",
+            "open_issues": 3,
             "owner": "viewstools",
             "repo": "codemods",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:42:24.872Z"
         },
@@ -2743,12 +3910,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Codemods to upgrade d3 from version 3.x",
+            "homepage": null,
             "id": 73559630,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-01-21T23:16:56Z",
+            "open_issues": 8,
             "owner": "expobrain",
             "repo": "d3-upgrade-codemods",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:42:24.872Z"
         },
@@ -2759,12 +3931,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Closure codemod scripts",
+            "homepage": null,
             "id": 225315080,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2020-08-31T08:00:16Z",
+            "open_issues": 1,
             "owner": "toshi-toma",
             "repo": "closure-codemod",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:42:24.872Z"
         },
@@ -2775,12 +3952,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "TDS codemod scripts",
+            "homepage": null,
             "id": 122396371,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-04-20T16:49:10Z",
+            "open_issues": 10,
             "owner": "telus-archive",
             "repo": "tds-codemod",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:42:24.872Z"
         },
@@ -2791,12 +3973,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Bottender codemod scripts",
+            "homepage": null,
             "id": 225335251,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2023-01-05T02:08:45Z",
+            "open_issues": 16,
             "owner": "bottenderjs",
             "repo": "bottender-codemod",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:42:24.872Z"
         }
@@ -2813,12 +4000,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of jscodeshift packages and resources.",
+            "homepage": null,
             "id": 53223377,
             "language": null,
+            "license": null,
             "last_commit": "2023-10-22T09:12:10Z",
+            "open_issues": 5,
             "owner": "sejoker",
             "repo": "awesome-jscodeshift",
-            "stars": 415
+            "stars": 415,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:42:24.872Z"
         },
@@ -2829,12 +4021,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " A curated list of awesome AST resources",
+            "homepage": null,
             "id": 54295937,
             "language": null,
+            "license": null,
             "last_commit": "2020-05-18T08:00:10Z",
+            "open_issues": 0,
             "owner": "cowchimp",
             "repo": "awesome-ast",
-            "stars": 238
+            "stars": 238,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:42:24.872Z"
         }
@@ -2843,15 +4040,27 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T23:42:24.872Z",
+    "last_updated": "2026-08-29T04:51:33.361Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Awesome list of codemods for various languages, libraries and frameworks",
+      "homepage": null,
       "id": 227242829,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2024-02-16T03:56:20Z",
+      "open_issues": 2,
       "owner": "rajasegar",
       "repo": "awesome-codemods",
-      "stars": 221
+      "stars": 221,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "awesome-lists",
+        "codemod",
+        "codemods",
+        "jscodeshift-codemod"
+      ]
     },
     "original_repository_sha": "f1c322698f0525cc8bb40461980db618b4d1a57d",
     "enhanced_repository": "enhansome/enhansome-codemods",

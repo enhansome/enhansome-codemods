@@ -222,7 +222,7 @@ This is the list of codemods used by a particular organization for their code tr
 ## Misc
 
 * [mrm](https://github.com/sapegin/mrm) ⭐ 1,646 | 🐛 11 | 🌐 JavaScript | 📅 2024-10-30 - Codemods for your project config files.
-* [django-codemod](https://github.com/browniebroke/django-codemod) ⭐ 190 | 🐛 9 | 🌐 Python | 📅 2026-08-28 - A tool to automatically fix Django deprecations.
+* [django-codemod](https://github.com/browniebroke/django-codemod) ⭐ 190 | 🐛 8 | 🌐 Python | 📅 2026-08-29 - A tool to automatically fix Django deprecations.
 * [ratchet](https://github.com/mskelton/ratchet) ⭐ 145 | 🐛 5 | 🌐 TypeScript | 📅 2024-04-07 - Codemod to convert React PropTypes to TypeScript types.
 * [next-codemod](https://github.com/zeit/next-codemod) ⚠️ Archived - Codemod transformations to help upgrade Next.js codebases.
 * [js-codemods](https://github.com/entria/js-codemods) ⭐ 44 | 🐛 0 | 🌐 TypeScript | 📅 2025-05-11 - Node.js/JavaScript codemods used at @entria.
@@ -262,4 +262,4 @@ This is the list of codemods used by a particular organization for their code tr
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._

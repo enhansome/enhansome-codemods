@@ -118,7 +118,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before contributing.
 * [cjsx-codemod](https://github.com/jsdf/cjsx-codemod) ⭐ 11 | 🐛 0 | 🌐 JavaScript | 📅 2016-10-03 - A codemod for migrating off of coffee-react CJSX.
 * [babel-plugin-codemod-react-css-modules](https://github.com/Craga89/babel-plugin-codemod-react-css-modules) ⭐ 7 | 🐛 0 | 🌐 TypeScript | 📅 2019-01-29 - Converts React components using imported CSS stylesheets to equivalent CSS Modules syntax.
 * [react-hot-loader-codemod](https://github.com/sibelius/react-hot-loader-codemod) ⭐ 5 | 🐛 1 | 🌐 TypeScript | 📅 2019-02-10
-* [over\_react\_codemod](https://github.com/Workiva/over_react_codemod) ⭐ 3 | 🐛 14 | 🌐 Dart | 📅 2026-08-28 - Codemods to help consumers of over\_react automate the migration of UI component code.
+* [over\_react\_codemod](https://github.com/Workiva/over_react_codemod) ⭐ 3 | 🐛 13 | 🌐 Dart | 📅 2026-08-28 - Codemods to help consumers of over\_react automate the migration of UI component code.
 * [react-native-paper-codemod](https://github.com/callstack/react-native-paper-codemod) ⭐ 3 | 🐛 0 | 🌐 JavaScript | 📅 2018-09-03
 * [react-codemod-pure-component-to-class](https://github.com/orzarchi/react-codemod-pure-component-to-class) ⭐ 3 | 🐛 2 | 🌐 JavaScript | 📅 2018-04-21 - A react codemod to transform stateless/pure/functional components to class components.
 * [mukeshsoni/codemods](https://github.com/mukeshsoni/codemods) ⭐ 3 | 🐛 0 | 🌐 JavaScript | 📅 2018-05-10 - Adds a data-test-id attribute to all jsx html elements.
@@ -192,7 +192,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before contributing.
 
 ### material-ui
 
-* [@mui/codemod](https://github.com/mui/material-ui/tree/master/packages/mui-codemod) ⭐ 98,958 | 🐛 1,488 | 🌐 JavaScript | 📅 2026-08-28 - A collection of codemod scripts based for use with jscodeshift that help update MUI APIs.
+* [@mui/codemod](https://github.com/mui/material-ui/tree/master/packages/mui-codemod) ⭐ 98,965 | 🐛 1,492 | 🌐 JavaScript | 📅 2026-08-28 - A collection of codemod scripts based for use with jscodeshift that help update MUI APIs.
 
 ### ant-design
 

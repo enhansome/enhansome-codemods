@@ -15,7 +15,7 @@
             "id": 68468109,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-28T12:58:20Z",
+            "last_commit": "2026-08-30T21:11:39Z",
             "open_issues": 35,
             "owner": "skovhus",
             "repo": "jest-codemods",
@@ -1624,7 +1624,7 @@
                 "open_issues": 57,
                 "owner": "reactjs",
                 "repo": "react-codemod",
-                "stars": 4411,
+                "stars": 4410,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:42:24.872Z"
@@ -2791,7 +2791,7 @@
                 "id": 159849469,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-08-29T21:44:17Z",
+                "last_commit": "2026-08-31T17:36:16Z",
                 "open_issues": 0,
                 "owner": "coderaiser",
                 "repo": "putout",
@@ -2892,11 +2892,11 @@
                 "id": 23083156,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-08-30T16:22:36Z",
-                "open_issues": 1503,
+                "last_commit": "2026-08-31T15:22:24Z",
+                "open_issues": 1487,
                 "owner": "mui",
                 "repo": "material-ui",
-                "stars": 98974,
+                "stars": 98975,
                 "topics": [
                   "design-system",
                   "material-design",
@@ -3293,8 +3293,8 @@
             "id": 261884067,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-08-29T02:41:27Z",
-            "open_issues": 8,
+            "last_commit": "2026-08-31T20:00:17Z",
+            "open_issues": 9,
             "owner": "browniebroke",
             "repo": "django-codemod",
             "stars": 190,
@@ -4040,7 +4040,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T18:11:41.759Z",
+    "last_updated": "2026-08-31T20:24:19.680Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of codemods for various languages, libraries and frameworks",

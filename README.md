@@ -186,13 +186,13 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before contributing.
 
 ### react-router
 
-* [@putout/plugin-react-router](https://github.com/coderaiser/putout/tree/master/packages/plugin-react-router) ⭐ 796 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-31 - Putout plugin adds ability to migrate to latest version of react router.
+* [@putout/plugin-react-router](https://github.com/coderaiser/putout/tree/master/packages/plugin-react-router) ⭐ 796 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-02 - Putout plugin adds ability to migrate to latest version of react router.
 * [react-router-v6-codemods](https://github.com/rajasegar/react-router-v6-codemods) ⭐ 10 | 🐛 2 | 🌐 JavaScript | 📅 2023-01-09 - Codemods for migrating react-router from v5 to v6.
 * [react-router-v4-codemods](https://github.com/rajasegar/react-router-v4-codemods) ⭐ 3 | 🐛 0 | 🌐 JavaScript | 📅 2023-01-08 - Codemods for migrating react-router from v3 to v4.
 
 ### material-ui
 
-* [@mui/codemod](https://github.com/mui/material-ui/tree/master/packages/mui-codemod) ⭐ 98,983 | 🐛 1,483 | 🌐 JavaScript | 📅 2026-09-01 - A collection of codemod scripts based for use with jscodeshift that help update MUI APIs.
+* [@mui/codemod](https://github.com/mui/material-ui/tree/master/packages/mui-codemod) ⭐ 98,990 | 🐛 1,485 | 🌐 JavaScript | 📅 2026-09-02 - A collection of codemod scripts based for use with jscodeshift that help update MUI APIs.
 
 ### ant-design
 
@@ -235,7 +235,7 @@ This is the list of codemods used by a particular organization for their code tr
 * [gen-codemod](https://github.com/noahsug/gen-codemod) ⭐ 22 | 🐛 0 | 🌐 JavaScript | 📅 2018-02-28 - Generate codemods by specifying your starting -> desired JavaScript.
 * [mithril-codemods](https://github.com/MithrilJS/mithril-codemods) ⚠️ Archived
 * [flow-codemod](https://github.com/flowtype/flow-codemod) ⚠️ Archived - Jscodeshift-powered <mithril@0.2.x> to <mithril@1.x> transformations .
-* [babel-plugin-localize](https://github.com/amerani/babel-plugin-localize) ⭐ 12 | 🐛 2 | 🌐 JavaScript | 📅 2018-07-21 - Codemod to localize static strings.
+* [babel-plugin-localize](https://github.com/amerani/babel-plugin-localize) ⭐ 12 | 🐛 3 | 🌐 JavaScript | 📅 2018-07-21 - Codemod to localize static strings.
 * [date-fns-upgrade-codemod](https://github.com/date-fns/date-fns-upgrade-codemod) ⭐ 11 | 🐛 14 | 🌐 JavaScript | 📅 2023-01-04 - Code mods for upgrading date-fns versions.
 * [generator-codemod](https://github.com/jamestalmage/generator-codemod) ⭐ 11 | 🐛 4 | 🌐 JavaScript | 📅 2016-04-19 - A generator to create codemods quickly.
 * [create-codemod-app](https://github.com/dangreenisrael/create-codemod-app) ⭐ 11 | 🐛 13 | 🌐 JavaScript | 📅 2023-01-04 - Create Codemod App, a codemod generator and runner.
@@ -262,4 +262,4 @@ This is the list of codemods used by a particular organization for their code tr
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._

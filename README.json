@@ -322,7 +322,7 @@
             "id": 59136638,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-01T13:05:44Z",
+            "last_commit": "2026-09-09T17:17:35Z",
             "open_issues": 2,
             "owner": "eslint",
             "repo": "eslint-transforms",
@@ -1624,7 +1624,7 @@
                 "open_issues": 57,
                 "owner": "reactjs",
                 "repo": "react-codemod",
-                "stars": 4410,
+                "stars": 4408,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:42:24.872Z"
@@ -1696,7 +1696,7 @@
                 "open_issues": 1,
                 "owner": "reactjs",
                 "repo": "rackt-codemod",
-                "stars": 39,
+                "stars": 38,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:42:24.872Z"
@@ -2791,7 +2791,7 @@
                 "id": 159849469,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-08T15:23:19Z",
+                "last_commit": "2026-09-09T13:22:45Z",
                 "open_issues": 0,
                 "owner": "coderaiser",
                 "repo": "putout",
@@ -2892,11 +2892,11 @@
                 "id": 23083156,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-08T17:21:09Z",
-                "open_issues": 1475,
+                "last_commit": "2026-09-09T13:11:51Z",
+                "open_issues": 1466,
                 "owner": "mui",
                 "repo": "material-ui",
-                "stars": 99026,
+                "stars": 99024,
                 "topics": [
                   "design-system",
                   "material-design",
@@ -4040,7 +4040,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T18:06:40.593Z",
+    "last_updated": "2026-09-09T18:00:48.508Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of codemods for various languages, libraries and frameworks",

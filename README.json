@@ -228,7 +228,7 @@
             "id": 122303711,
             "language": "JavaScript",
             "license": null,
-            "last_commit": "2024-05-07T14:25:47Z",
+            "last_commit": "2026-09-13T02:12:58Z",
             "open_issues": 9,
             "owner": "suchipi",
             "repo": "transform-imports",
@@ -2791,11 +2791,11 @@
                 "id": 159849469,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-12T17:12:51Z",
+                "last_commit": "2026-09-13T13:39:12Z",
                 "open_issues": 0,
                 "owner": "coderaiser",
                 "repo": "putout",
-                "stars": 796,
+                "stars": 795,
                 "topics": [
                   "ast",
                   "babel",
@@ -2892,11 +2892,11 @@
                 "id": 23083156,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-11T14:50:15Z",
-                "open_issues": 1463,
+                "last_commit": "2026-09-13T17:18:35Z",
+                "open_issues": 1475,
                 "owner": "mui",
                 "repo": "material-ui",
-                "stars": 99034,
+                "stars": 99039,
                 "topics": [
                   "design-system",
                   "material-design",
@@ -4040,7 +4040,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T17:26:46.830Z",
+    "last_updated": "2026-09-13T17:42:00.635Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of codemods for various languages, libraries and frameworks",

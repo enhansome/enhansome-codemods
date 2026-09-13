@@ -27,7 +27,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before contributing.
 * [aws-sdk-js-codemod](https://github.com/awslabs/aws-sdk-js-codemod) ⭐ 89 | 🐛 40 | 🌐 TypeScript | 📅 2026-09-01 - Codemod scripts to update AWS SDK for JavaScript APIs.
 * [refactoring-codemods](https://github.com/jurassix/refactoring-codemods) ⭐ 80 | 🐛 5 | 🌐 JavaScript | 📅 2018-05-09 - Refactoring support for JavaScript via jscodeshift codemods.
 * [JamieMason/codemods](https://github.com/JamieMason/codemods) ⭐ 64 | 🐛 2 | 🌐 JavaScript | 📅 2025-09-17 - A collection of transforms for use with JSCodeshift.
-* [transform-imports](https://github.com/suchipi/transform-imports) ⭐ 53 | 🐛 9 | 🌐 JavaScript | 📅 2024-05-07 - Tools that make it easy to codemod imports/requires in your JS.
+* [transform-imports](https://github.com/suchipi/transform-imports) ⭐ 53 | 🐛 9 | 🌐 JavaScript | 📅 2026-09-13 - Tools that make it easy to codemod imports/requires in your JS.
 * [codemod-imports-sort](https://github.com/bfncs/codemod-imports-sort) ⭐ 38 | 🐛 3 | 🌐 JavaScript | 📅 2018-05-07 - Sort ES6 imports by type.
 * [coffee-to-es2015-codemod](https://github.com/Hacker0x01/coffee-to-es2015-codemod) ⭐ 37 | 🐛 2 | 🌐 JavaScript | 📅 2016-03-04 - A set of JSCodeshift transforms that will help you transform your CoffeeScript codebase to ES2015.
 * [es5-function-to-class-codemod](https://github.com/dhruvdutt/es5-function-to-class-codemod) ⭐ 34 | 🐛 3 | 🌐 JavaScript | 📅 2019-06-20 - Transform ES5 Functions to ES6 Classes.
@@ -186,13 +186,13 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before contributing.
 
 ### react-router
 
-* [@putout/plugin-react-router](https://github.com/coderaiser/putout/tree/master/packages/plugin-react-router) ⭐ 796 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-12 - Putout plugin adds ability to migrate to latest version of react router.
+* [@putout/plugin-react-router](https://github.com/coderaiser/putout/tree/master/packages/plugin-react-router) ⭐ 795 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-13 - Putout plugin adds ability to migrate to latest version of react router.
 * [react-router-v6-codemods](https://github.com/rajasegar/react-router-v6-codemods) ⭐ 10 | 🐛 2 | 🌐 JavaScript | 📅 2023-01-09 - Codemods for migrating react-router from v5 to v6.
 * [react-router-v4-codemods](https://github.com/rajasegar/react-router-v4-codemods) ⭐ 3 | 🐛 0 | 🌐 JavaScript | 📅 2023-01-08 - Codemods for migrating react-router from v3 to v4.
 
 ### material-ui
 
-* [@mui/codemod](https://github.com/mui/material-ui/tree/master/packages/mui-codemod) ⭐ 99,034 | 🐛 1,463 | 🌐 JavaScript | 📅 2026-09-11 - A collection of codemod scripts based for use with jscodeshift that help update MUI APIs.
+* [@mui/codemod](https://github.com/mui/material-ui/tree/master/packages/mui-codemod) ⭐ 99,039 | 🐛 1,475 | 🌐 JavaScript | 📅 2026-09-13 - A collection of codemod scripts based for use with jscodeshift that help update MUI APIs.
 
 ### ant-design
 
@@ -262,4 +262,4 @@ This is the list of codemods used by a particular organization for their code tr
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._

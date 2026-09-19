@@ -15,7 +15,7 @@
             "id": 68468109,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-18T15:17:43Z",
+            "last_commit": "2026-09-19T00:41:53Z",
             "open_issues": 35,
             "owner": "skovhus",
             "repo": "jest-codemods",
@@ -1624,7 +1624,7 @@
                 "open_issues": 57,
                 "owner": "reactjs",
                 "repo": "react-codemod",
-                "stars": 4407,
+                "stars": 4406,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:42:24.872Z"
@@ -2791,7 +2791,7 @@
                 "id": 159849469,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-17T07:43:47Z",
+                "last_commit": "2026-09-19T10:11:44Z",
                 "open_issues": 0,
                 "owner": "coderaiser",
                 "repo": "putout",
@@ -2893,10 +2893,10 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-09-18T15:20:13Z",
-                "open_issues": 1463,
+                "open_issues": 1465,
                 "owner": "mui",
                 "repo": "material-ui",
-                "stars": 99058,
+                "stars": 99060,
                 "topics": [
                   "design-system",
                   "material-design",
@@ -4009,7 +4009,7 @@
             "open_issues": 5,
             "owner": "sejoker",
             "repo": "awesome-jscodeshift",
-            "stars": 415,
+            "stars": 414,
             "topics": []
           },
           "first_seen": "2026-08-28T23:42:24.872Z"
@@ -4040,7 +4040,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T17:54:17.386Z",
+    "last_updated": "2026-09-19T17:27:32.420Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of codemods for various languages, libraries and frameworks",

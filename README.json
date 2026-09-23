@@ -322,7 +322,7 @@
             "id": 59136638,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-09T17:17:35Z",
+            "last_commit": "2026-09-23T08:14:11Z",
             "open_issues": 2,
             "owner": "eslint",
             "repo": "eslint-transforms",
@@ -1911,7 +1911,7 @@
                 "id": 143073092,
                 "language": "Dart",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-03T22:53:58Z",
+                "last_commit": "2026-09-22T23:47:37Z",
                 "open_issues": 14,
                 "owner": "Workiva",
                 "repo": "over_react_codemod",
@@ -2892,11 +2892,11 @@
                 "id": 23083156,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-22T13:30:26Z",
-                "open_issues": 1457,
+                "last_commit": "2026-09-23T14:58:36Z",
+                "open_issues": 1452,
                 "owner": "mui",
                 "repo": "material-ui",
-                "stars": 99083,
+                "stars": 99087,
                 "topics": [
                   "design-system",
                   "material-design",
@@ -2957,7 +2957,7 @@
                 "open_issues": 8,
                 "owner": "ant-design",
                 "repo": "antd-codemod",
-                "stars": 20,
+                "stars": 19,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:42:24.872Z"
@@ -3267,7 +3267,7 @@
             "open_issues": 11,
             "owner": "sapegin",
             "repo": "mrm",
-            "stars": 1646,
+            "stars": 1647,
             "topics": [
               "cli",
               "codemod",
@@ -3293,8 +3293,8 @@
             "id": 261884067,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-22T05:35:29Z",
-            "open_issues": 9,
+            "last_commit": "2026-09-23T13:25:13Z",
+            "open_issues": 8,
             "owner": "browniebroke",
             "repo": "django-codemod",
             "stars": 190,
@@ -4040,7 +4040,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T18:19:09.807Z",
+    "last_updated": "2026-09-23T18:39:32.341Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of codemods for various languages, libraries and frameworks",

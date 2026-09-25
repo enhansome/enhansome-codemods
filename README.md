@@ -19,7 +19,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before contributing.
 
 ## JavaScript
 
-* [jest-codemods](https://github.com/skovhus/jest-codemods) ⭐ 887 | 🐛 35 | 🌐 TypeScript | 📅 2026-09-24 - Codemods for migrating to Jest .
+* [jest-codemods](https://github.com/skovhus/jest-codemods) ⭐ 887 | 🐛 38 | 🌐 TypeScript | 📅 2026-09-24 - Codemods for migrating to Jest .
 * [5to6-codemod](https://github.com/5to6/5to6-codemod) ⭐ 299 | 🐛 26 | 🌐 JavaScript | 📅 2023-01-03 - A collection of codemods that allow you to transform your js code from ES5 to ES6.
 * [codeshift-community](https://github.com/CodeshiftCommunity/CodeshiftCommunity) ⭐ 151 | 🐛 47 | 🌐 TypeScript | 📅 2026-04-18 - Community-owned global registry and documentation hub for codemods. Write & run codemodes, share them with your friends.
 * [relative-to-alias](https://github.com/s-yadav/relative-to-alias) ⭐ 135 | 🐛 15 | 🌐 JavaScript | 📅 2023-01-03 - A codemod to do large-scale refactor of your relative path imports to alias.
@@ -31,7 +31,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before contributing.
 * [codemod-imports-sort](https://github.com/bfncs/codemod-imports-sort) ⭐ 38 | 🐛 3 | 🌐 JavaScript | 📅 2018-05-07 - Sort ES6 imports by type.
 * [coffee-to-es2015-codemod](https://github.com/Hacker0x01/coffee-to-es2015-codemod) ⭐ 37 | 🐛 2 | 🌐 JavaScript | 📅 2016-03-04 - A set of JSCodeshift transforms that will help you transform your CoffeeScript codebase to ES2015.
 * [es5-function-to-class-codemod](https://github.com/dhruvdutt/es5-function-to-class-codemod) ⭐ 34 | 🐛 3 | 🌐 JavaScript | 📅 2019-06-20 - Transform ES5 Functions to ES6 Classes.
-* [eslint-transforms](https://github.com/eslint/eslint-transforms) ⭐ 31 | 🐛 2 | 🌐 JavaScript | 📅 2026-09-23 - Codemods for the ESLint ecosystem.
+* [eslint-transforms](https://github.com/eslint/eslint-transforms) ⭐ 31 | 🐛 2 | 🌐 JavaScript | 📅 2026-09-25 - Codemods for the ESLint ecosystem.
 * [async-await-codemod](https://github.com/sgilroy/async-await-codemod) ⭐ 29 | 🐛 18 | 🌐 JavaScript | 📅 2022-12-07 - Codemod script for migrating promise-based functions to use async/await syntax.
 * [sinon-codemod](https://github.com/hurrymaplelad/sinon-codemod) ⭐ 28 | 🐛 2 | 🌐 JavaScript | 📅 2018-11-26 - Codemod scripts that update Sinon APIs .
 * [undecorate-codemod](https://github.com/tizmagik/undecorate-codemod) ⭐ 16 | 🐛 0 | 🌐 JavaScript | 📅 2016-12-02 - Transformers experimental ESNext decorators syntax to simple currying.
@@ -106,7 +106,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before contributing.
 
 ### React.js
 
-* [react-codemod](https://github.com/reactjs/react-codemod) ⭐ 4,406 | 🐛 57 | 🌐 JavaScript | 📅 2026-02-22 - React codemod scripts to update React APIs.
+* [react-codemod](https://github.com/reactjs/react-codemod) ⭐ 4,407 | 🐛 57 | 🌐 JavaScript | 📅 2026-02-22 - React codemod scripts to update React APIs.
 * [ast-18n](https://github.com/sibelius/ast-i18n) ⭐ 231 | 🐛 9 | 🌐 TypeScript | 📅 2024-06-18 - Easily migrate your existing React codebase to use i18n.
 * [rn-update-deprecated-modules](https://github.com/lucasbento/rn-update-deprecated-modules) ⭐ 72 | 🐛 16 | 🌐 JavaScript | 📅 2023-01-03 - Codemod to update import declarations as per react-native > 0.59.x deprecations.
 * [rackt-codemod](https://github.com/reactjs/rackt-codemod) ⚠️ Archived - Codemod scripts for Rackt libraries.
@@ -118,7 +118,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before contributing.
 * [cjsx-codemod](https://github.com/jsdf/cjsx-codemod) ⭐ 11 | 🐛 0 | 🌐 JavaScript | 📅 2016-10-03 - A codemod for migrating off of coffee-react CJSX.
 * [babel-plugin-codemod-react-css-modules](https://github.com/Craga89/babel-plugin-codemod-react-css-modules) ⭐ 7 | 🐛 0 | 🌐 TypeScript | 📅 2019-01-29 - Converts React components using imported CSS stylesheets to equivalent CSS Modules syntax.
 * [react-hot-loader-codemod](https://github.com/sibelius/react-hot-loader-codemod) ⭐ 5 | 🐛 1 | 🌐 TypeScript | 📅 2019-02-10
-* [over\_react\_codemod](https://github.com/Workiva/over_react_codemod) ⭐ 3 | 🐛 14 | 🌐 Dart | 📅 2026-09-22 - Codemods to help consumers of over\_react automate the migration of UI component code.
+* [over\_react\_codemod](https://github.com/Workiva/over_react_codemod) ⭐ 3 | 🐛 13 | 🌐 Dart | 📅 2026-09-25 - Codemods to help consumers of over\_react automate the migration of UI component code.
 * [react-native-paper-codemod](https://github.com/callstack/react-native-paper-codemod) ⭐ 3 | 🐛 0 | 🌐 JavaScript | 📅 2018-09-03
 * [react-codemod-pure-component-to-class](https://github.com/orzarchi/react-codemod-pure-component-to-class) ⭐ 3 | 🐛 2 | 🌐 JavaScript | 📅 2018-04-21 - A react codemod to transform stateless/pure/functional components to class components.
 * [mukeshsoni/codemods](https://github.com/mukeshsoni/codemods) ⭐ 3 | 🐛 0 | 🌐 JavaScript | 📅 2018-05-10 - Adds a data-test-id attribute to all jsx html elements.
@@ -192,7 +192,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before contributing.
 
 ### material-ui
 
-* [@mui/codemod](https://github.com/mui/material-ui/tree/master/packages/mui-codemod) ⭐ 99,095 | 🐛 1,452 | 🌐 JavaScript | 📅 2026-09-24 - A collection of codemod scripts based for use with jscodeshift that help update MUI APIs.
+* [@mui/codemod](https://github.com/mui/material-ui/tree/master/packages/mui-codemod) ⭐ 99,096 | 🐛 1,450 | 🌐 JavaScript | 📅 2026-09-25 - A collection of codemod scripts based for use with jscodeshift that help update MUI APIs.
 
 ### ant-design
 
@@ -222,7 +222,7 @@ This is the list of codemods used by a particular organization for their code tr
 ## Misc
 
 * [mrm](https://github.com/sapegin/mrm) ⭐ 1,647 | 🐛 10 | 🌐 JavaScript | 📅 2024-10-30 - Codemods for your project config files.
-* [django-codemod](https://github.com/browniebroke/django-codemod) ⭐ 189 | 🐛 8 | 🌐 Python | 📅 2026-09-24 - A tool to automatically fix Django deprecations.
+* [django-codemod](https://github.com/browniebroke/django-codemod) ⭐ 189 | 🐛 8 | 🌐 Python | 📅 2026-09-25 - A tool to automatically fix Django deprecations.
 * [ratchet](https://github.com/mskelton/ratchet) ⭐ 145 | 🐛 5 | 🌐 TypeScript | 📅 2024-04-07 - Codemod to convert React PropTypes to TypeScript types.
 * [next-codemod](https://github.com/zeit/next-codemod) ⚠️ Archived - Codemod transformations to help upgrade Next.js codebases.
 * [js-codemods](https://github.com/entria/js-codemods) ⭐ 44 | 🐛 0 | 🌐 TypeScript | 📅 2025-05-11 - Node.js/JavaScript codemods used at @entria.
@@ -262,4 +262,4 @@ This is the list of codemods used by a particular organization for their code tr
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._

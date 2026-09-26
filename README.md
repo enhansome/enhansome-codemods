@@ -19,7 +19,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before contributing.
 
 ## JavaScript
 
-* [jest-codemods](https://github.com/skovhus/jest-codemods) ⭐ 887 | 🐛 38 | 🌐 TypeScript | 📅 2026-09-24 - Codemods for migrating to Jest .
+* [jest-codemods](https://github.com/skovhus/jest-codemods) ⭐ 887 | 🐛 38 | 🌐 TypeScript | 📅 2026-09-26 - Codemods for migrating to Jest .
 * [5to6-codemod](https://github.com/5to6/5to6-codemod) ⭐ 299 | 🐛 26 | 🌐 JavaScript | 📅 2023-01-03 - A collection of codemods that allow you to transform your js code from ES5 to ES6.
 * [codeshift-community](https://github.com/CodeshiftCommunity/CodeshiftCommunity) ⭐ 151 | 🐛 47 | 🌐 TypeScript | 📅 2026-04-18 - Community-owned global registry and documentation hub for codemods. Write & run codemodes, share them with your friends.
 * [relative-to-alias](https://github.com/s-yadav/relative-to-alias) ⭐ 135 | 🐛 15 | 🌐 JavaScript | 📅 2023-01-03 - A codemod to do large-scale refactor of your relative path imports to alias.
@@ -186,13 +186,13 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before contributing.
 
 ### react-router
 
-* [@putout/plugin-react-router](https://github.com/coderaiser/putout/tree/master/packages/plugin-react-router) ⭐ 795 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-23 - Putout plugin adds ability to migrate to latest version of react router.
+* [@putout/plugin-react-router](https://github.com/coderaiser/putout/tree/master/packages/plugin-react-router) ⭐ 795 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-26 - Putout plugin adds ability to migrate to latest version of react router.
 * [react-router-v6-codemods](https://github.com/rajasegar/react-router-v6-codemods) ⭐ 10 | 🐛 2 | 🌐 JavaScript | 📅 2023-01-09 - Codemods for migrating react-router from v5 to v6.
 * [react-router-v4-codemods](https://github.com/rajasegar/react-router-v4-codemods) ⭐ 3 | 🐛 0 | 🌐 JavaScript | 📅 2023-01-08 - Codemods for migrating react-router from v3 to v4.
 
 ### material-ui
 
-* [@mui/codemod](https://github.com/mui/material-ui/tree/master/packages/mui-codemod) ⭐ 99,096 | 🐛 1,450 | 🌐 JavaScript | 📅 2026-09-25 - A collection of codemod scripts based for use with jscodeshift that help update MUI APIs.
+* [@mui/codemod](https://github.com/mui/material-ui/tree/master/packages/mui-codemod) ⭐ 99,092 | 🐛 1,450 | 🌐 JavaScript | 📅 2026-09-25 - A collection of codemod scripts based for use with jscodeshift that help update MUI APIs.
 
 ### ant-design
 
@@ -231,7 +231,7 @@ This is the list of codemods used by a particular organization for their code tr
 * [babel-plugin-glamorous-to-emotion](https://github.com/TejasQ/babel-plugin-glamorous-to-emotion) ⭐ 34 | 🐛 4 | 🌐 JavaScript | 📅 2023-01-04 - A codemod to migrate existing React or Preact codebases from glamorous to emotion.
 * [PHP-Codeshift](https://github.com/Atanamo/PHP-Codeshift) ⭐ 32 | 🐛 0 | 🌐 PHP | 📅 2022-10-23 - A small PHP toolkit for running codemods (code transformations) over multiple PHP files.
 * [webpack-codemods](https://github.com/okonet/webpack-codemods) ⭐ 31 | 🐛 0 | 🌐 JavaScript | 📅 2017-01-27 - JS Codemod to automatically convert webpack config from v1 to v2.
-* [webdriverio/codemod](https://github.com/webdriverio/codemod) ⭐ 28 | 🐛 18 | 🌐 JavaScript | 📅 2024-07-15 - A codemod to transform Protractor into WebdriverIO tests.
+* [webdriverio/codemod](https://github.com/webdriverio/codemod) ⭐ 28 | 🐛 19 | 🌐 JavaScript | 📅 2026-09-25 - A codemod to transform Protractor into WebdriverIO tests.
 * [gen-codemod](https://github.com/noahsug/gen-codemod) ⭐ 22 | 🐛 0 | 🌐 JavaScript | 📅 2018-02-28 - Generate codemods by specifying your starting -> desired JavaScript.
 * [mithril-codemods](https://github.com/MithrilJS/mithril-codemods) ⚠️ Archived
 * [flow-codemod](https://github.com/flowtype/flow-codemod) ⚠️ Archived - Jscodeshift-powered <mithril@0.2.x> to <mithril@1.x> transformations .
@@ -262,4 +262,4 @@ This is the list of codemods used by a particular organization for their code tr
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._

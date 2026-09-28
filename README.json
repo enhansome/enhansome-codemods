@@ -2791,7 +2791,7 @@
                 "id": 159849469,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-27T18:01:32Z",
+                "last_commit": "2026-09-28T20:36:13Z",
                 "open_issues": 0,
                 "owner": "coderaiser",
                 "repo": "putout",
@@ -2892,11 +2892,11 @@
                 "id": 23083156,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-27T07:25:47Z",
-                "open_issues": 1468,
+                "last_commit": "2026-09-28T16:29:03Z",
+                "open_issues": 1459,
                 "owner": "mui",
                 "repo": "material-ui",
-                "stars": 99098,
+                "stars": 99109,
                 "topics": [
                   "design-system",
                   "material-design",
@@ -3293,7 +3293,7 @@
             "id": 261884067,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-25T18:50:20Z",
+            "last_commit": "2026-09-28T19:50:31Z",
             "open_issues": 8,
             "owner": "browniebroke",
             "repo": "django-codemod",
@@ -4040,7 +4040,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T18:39:44.458Z",
+    "last_updated": "2026-09-28T20:50:09.239Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of codemods for various languages, libraries and frameworks",

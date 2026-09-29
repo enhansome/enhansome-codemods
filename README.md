@@ -24,7 +24,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before contributing.
 * [codeshift-community](https://github.com/CodeshiftCommunity/CodeshiftCommunity) ⭐ 151 | 🐛 47 | 🌐 TypeScript | 📅 2026-04-18 - Community-owned global registry and documentation hub for codemods. Write & run codemodes, share them with your friends.
 * [relative-to-alias](https://github.com/s-yadav/relative-to-alias) ⭐ 135 | 🐛 15 | 🌐 JavaScript | 📅 2023-01-03 - A codemod to do large-scale refactor of your relative path imports to alias.
 * [js-transforms](https://github.com/jhgg/js-transforms) ⭐ 102 | 🐛 0 | 🌐 JavaScript | 📅 2015-10-22 - Some documented codemod experiments to help you learn.
-* [aws-sdk-js-codemod](https://github.com/awslabs/aws-sdk-js-codemod) ⭐ 89 | 🐛 40 | 🌐 TypeScript | 📅 2026-09-01 - Codemod scripts to update AWS SDK for JavaScript APIs.
+* [aws-sdk-js-codemod](https://github.com/awslabs/aws-sdk-js-codemod) ⭐ 89 | 🐛 41 | 🌐 TypeScript | 📅 2026-09-29 - Codemod scripts to update AWS SDK for JavaScript APIs.
 * [refactoring-codemods](https://github.com/jurassix/refactoring-codemods) ⭐ 80 | 🐛 5 | 🌐 JavaScript | 📅 2018-05-09 - Refactoring support for JavaScript via jscodeshift codemods.
 * [JamieMason/codemods](https://github.com/JamieMason/codemods) ⭐ 64 | 🐛 2 | 🌐 JavaScript | 📅 2025-09-17 - A collection of transforms for use with JSCodeshift.
 * [transform-imports](https://github.com/suchipi/transform-imports) ⭐ 53 | 🐛 9 | 🌐 JavaScript | 📅 2026-09-13 - Tools that make it easy to codemod imports/requires in your JS.
@@ -186,13 +186,13 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before contributing.
 
 ### react-router
 
-* [@putout/plugin-react-router](https://github.com/coderaiser/putout/tree/master/packages/plugin-react-router) ⭐ 795 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-28 - Putout plugin adds ability to migrate to latest version of react router.
+* [@putout/plugin-react-router](https://github.com/coderaiser/putout/tree/master/packages/plugin-react-router) ⭐ 796 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-29 - Putout plugin adds ability to migrate to latest version of react router.
 * [react-router-v6-codemods](https://github.com/rajasegar/react-router-v6-codemods) ⭐ 10 | 🐛 2 | 🌐 JavaScript | 📅 2023-01-09 - Codemods for migrating react-router from v5 to v6.
 * [react-router-v4-codemods](https://github.com/rajasegar/react-router-v4-codemods) ⭐ 3 | 🐛 0 | 🌐 JavaScript | 📅 2023-01-08 - Codemods for migrating react-router from v3 to v4.
 
 ### material-ui
 
-* [@mui/codemod](https://github.com/mui/material-ui/tree/master/packages/mui-codemod) ⭐ 99,109 | 🐛 1,459 | 🌐 JavaScript | 📅 2026-09-28 - A collection of codemod scripts based for use with jscodeshift that help update MUI APIs.
+* [@mui/codemod](https://github.com/mui/material-ui/tree/master/packages/mui-codemod) ⭐ 99,116 | 🐛 1,447 | 🌐 JavaScript | 📅 2026-09-29 - A collection of codemod scripts based for use with jscodeshift that help update MUI APIs.
 
 ### ant-design
 
@@ -222,7 +222,7 @@ This is the list of codemods used by a particular organization for their code tr
 ## Misc
 
 * [mrm](https://github.com/sapegin/mrm) ⭐ 1,647 | 🐛 10 | 🌐 JavaScript | 📅 2024-10-30 - Codemods for your project config files.
-* [django-codemod](https://github.com/browniebroke/django-codemod) ⭐ 189 | 🐛 8 | 🌐 Python | 📅 2026-09-28 - A tool to automatically fix Django deprecations.
+* [django-codemod](https://github.com/browniebroke/django-codemod) ⭐ 189 | 🐛 8 | 🌐 Python | 📅 2026-09-29 - A tool to automatically fix Django deprecations.
 * [ratchet](https://github.com/mskelton/ratchet) ⭐ 145 | 🐛 5 | 🌐 TypeScript | 📅 2024-04-07 - Codemod to convert React PropTypes to TypeScript types.
 * [next-codemod](https://github.com/zeit/next-codemod) ⚠️ Archived - Codemod transformations to help upgrade Next.js codebases.
 * [js-codemods](https://github.com/entria/js-codemods) ⭐ 44 | 🐛 0 | 🌐 TypeScript | 📅 2025-05-11 - Node.js/JavaScript codemods used at @entria.
@@ -262,4 +262,4 @@ This is the list of codemods used by a particular organization for their code tr
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._

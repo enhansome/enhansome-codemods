@@ -1911,7 +1911,7 @@
                 "id": 143073092,
                 "language": "Dart",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-25T15:14:55Z",
+                "last_commit": "2026-09-29T22:51:04Z",
                 "open_issues": 13,
                 "owner": "Workiva",
                 "repo": "over_react_codemod",
@@ -2892,11 +2892,11 @@
                 "id": 23083156,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-29T13:45:47Z",
-                "open_issues": 1447,
+                "last_commit": "2026-09-30T16:47:08Z",
+                "open_issues": 1464,
                 "owner": "mui",
                 "repo": "material-ui",
-                "stars": 99116,
+                "stars": 99114,
                 "topics": [
                   "design-system",
                   "material-design",
@@ -4040,7 +4040,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T19:39:51.830Z",
+    "last_updated": "2026-09-30T19:39:17.716Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of codemods for various languages, libraries and frameworks",

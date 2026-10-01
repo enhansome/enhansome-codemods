@@ -19,19 +19,19 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before contributing.
 
 ## JavaScript
 
-* [jest-codemods](https://github.com/skovhus/jest-codemods) ⭐ 887 | 🐛 38 | 🌐 TypeScript | 📅 2026-09-26 - Codemods for migrating to Jest .
+* [jest-codemods](https://github.com/skovhus/jest-codemods) ⭐ 887 | 🐛 38 | 🌐 TypeScript | 📅 2026-10-01 - Codemods for migrating to Jest .
 * [5to6-codemod](https://github.com/5to6/5to6-codemod) ⭐ 299 | 🐛 26 | 🌐 JavaScript | 📅 2023-01-03 - A collection of codemods that allow you to transform your js code from ES5 to ES6.
 * [codeshift-community](https://github.com/CodeshiftCommunity/CodeshiftCommunity) ⭐ 151 | 🐛 47 | 🌐 TypeScript | 📅 2026-04-18 - Community-owned global registry and documentation hub for codemods. Write & run codemodes, share them with your friends.
 * [relative-to-alias](https://github.com/s-yadav/relative-to-alias) ⭐ 135 | 🐛 15 | 🌐 JavaScript | 📅 2023-01-03 - A codemod to do large-scale refactor of your relative path imports to alias.
 * [js-transforms](https://github.com/jhgg/js-transforms) ⭐ 102 | 🐛 0 | 🌐 JavaScript | 📅 2015-10-22 - Some documented codemod experiments to help you learn.
-* [aws-sdk-js-codemod](https://github.com/awslabs/aws-sdk-js-codemod) ⭐ 89 | 🐛 41 | 🌐 TypeScript | 📅 2026-09-29 - Codemod scripts to update AWS SDK for JavaScript APIs.
+* [aws-sdk-js-codemod](https://github.com/awslabs/aws-sdk-js-codemod) ⭐ 89 | 🐛 41 | 🌐 TypeScript | 📅 2026-10-01 - Codemod scripts to update AWS SDK for JavaScript APIs.
 * [refactoring-codemods](https://github.com/jurassix/refactoring-codemods) ⭐ 80 | 🐛 5 | 🌐 JavaScript | 📅 2018-05-09 - Refactoring support for JavaScript via jscodeshift codemods.
 * [JamieMason/codemods](https://github.com/JamieMason/codemods) ⭐ 64 | 🐛 2 | 🌐 JavaScript | 📅 2025-09-17 - A collection of transforms for use with JSCodeshift.
 * [transform-imports](https://github.com/suchipi/transform-imports) ⭐ 53 | 🐛 9 | 🌐 JavaScript | 📅 2026-09-13 - Tools that make it easy to codemod imports/requires in your JS.
 * [codemod-imports-sort](https://github.com/bfncs/codemod-imports-sort) ⭐ 38 | 🐛 3 | 🌐 JavaScript | 📅 2018-05-07 - Sort ES6 imports by type.
 * [coffee-to-es2015-codemod](https://github.com/Hacker0x01/coffee-to-es2015-codemod) ⭐ 37 | 🐛 2 | 🌐 JavaScript | 📅 2016-03-04 - A set of JSCodeshift transforms that will help you transform your CoffeeScript codebase to ES2015.
 * [es5-function-to-class-codemod](https://github.com/dhruvdutt/es5-function-to-class-codemod) ⭐ 34 | 🐛 3 | 🌐 JavaScript | 📅 2019-06-20 - Transform ES5 Functions to ES6 Classes.
-* [eslint-transforms](https://github.com/eslint/eslint-transforms) ⭐ 31 | 🐛 2 | 🌐 JavaScript | 📅 2026-09-25 - Codemods for the ESLint ecosystem.
+* [eslint-transforms](https://github.com/eslint/eslint-transforms) ⭐ 31 | 🐛 2 | 🌐 JavaScript | 📅 2026-10-01 - Codemods for the ESLint ecosystem.
 * [async-await-codemod](https://github.com/sgilroy/async-await-codemod) ⭐ 29 | 🐛 18 | 🌐 JavaScript | 📅 2022-12-07 - Codemod script for migrating promise-based functions to use async/await syntax.
 * [sinon-codemod](https://github.com/hurrymaplelad/sinon-codemod) ⭐ 28 | 🐛 2 | 🌐 JavaScript | 📅 2018-11-26 - Codemod scripts that update Sinon APIs .
 * [undecorate-codemod](https://github.com/tizmagik/undecorate-codemod) ⭐ 16 | 🐛 0 | 🌐 JavaScript | 📅 2016-12-02 - Transformers experimental ESNext decorators syntax to simple currying.
@@ -186,13 +186,13 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before contributing.
 
 ### react-router
 
-* [@putout/plugin-react-router](https://github.com/coderaiser/putout/tree/master/packages/plugin-react-router) ⭐ 796 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-29 - Putout plugin adds ability to migrate to latest version of react router.
+* [@putout/plugin-react-router](https://github.com/coderaiser/putout/tree/master/packages/plugin-react-router) ⭐ 796 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-01 - Putout plugin adds ability to migrate to latest version of react router.
 * [react-router-v6-codemods](https://github.com/rajasegar/react-router-v6-codemods) ⭐ 10 | 🐛 2 | 🌐 JavaScript | 📅 2023-01-09 - Codemods for migrating react-router from v5 to v6.
 * [react-router-v4-codemods](https://github.com/rajasegar/react-router-v4-codemods) ⭐ 3 | 🐛 0 | 🌐 JavaScript | 📅 2023-01-08 - Codemods for migrating react-router from v3 to v4.
 
 ### material-ui
 
-* [@mui/codemod](https://github.com/mui/material-ui/tree/master/packages/mui-codemod) ⭐ 99,114 | 🐛 1,464 | 🌐 JavaScript | 📅 2026-09-30 - A collection of codemod scripts based for use with jscodeshift that help update MUI APIs.
+* [@mui/codemod](https://github.com/mui/material-ui/tree/master/packages/mui-codemod) ⭐ 99,124 | 🐛 1,470 | 🌐 JavaScript | 📅 2026-10-01 - A collection of codemod scripts based for use with jscodeshift that help update MUI APIs.
 
 ### ant-design
 
@@ -223,7 +223,7 @@ This is the list of codemods used by a particular organization for their code tr
 
 * [mrm](https://github.com/sapegin/mrm) ⭐ 1,647 | 🐛 10 | 🌐 JavaScript | 📅 2024-10-30 - Codemods for your project config files.
 * [django-codemod](https://github.com/browniebroke/django-codemod) ⭐ 189 | 🐛 8 | 🌐 Python | 📅 2026-09-29 - A tool to automatically fix Django deprecations.
-* [ratchet](https://github.com/mskelton/ratchet) ⭐ 145 | 🐛 5 | 🌐 TypeScript | 📅 2024-04-07 - Codemod to convert React PropTypes to TypeScript types.
+* [ratchet](https://github.com/mskelton/ratchet) ⭐ 144 | 🐛 5 | 🌐 TypeScript | 📅 2024-04-07 - Codemod to convert React PropTypes to TypeScript types.
 * [next-codemod](https://github.com/zeit/next-codemod) ⚠️ Archived - Codemod transformations to help upgrade Next.js codebases.
 * [js-codemods](https://github.com/entria/js-codemods) ⭐ 44 | 🐛 0 | 🌐 TypeScript | 📅 2025-05-11 - Node.js/JavaScript codemods used at @entria.
 * [strapi/codemods](https://github.com/strapi/codemods) ⚠️ Archived - CLI to help you migrate your Strapi applications & plugins from v3 to v4.
@@ -262,4 +262,4 @@ This is the list of codemods used by a particular organization for their code tr
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._

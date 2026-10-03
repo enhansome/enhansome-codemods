@@ -15,7 +15,7 @@
             "id": 68468109,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-01T03:55:18Z",
+            "last_commit": "2026-10-02T22:20:24Z",
             "open_issues": 38,
             "owner": "skovhus",
             "repo": "jest-codemods",
@@ -404,7 +404,7 @@
         {
           "node_type": "item",
           "title": "optional-chaining-codemod",
-          "description": null,
+          "description": "NullVoxPopuli/optional-chaining-codemod",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -794,7 +794,7 @@
         {
           "node_type": "item",
           "title": "relekang/codemods",
-          "description": null,
+          "description": "relekang/codemods",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -842,7 +842,7 @@
         {
           "node_type": "item",
           "title": "apitsummit-codemods",
-          "description": null,
+          "description": "perjansson/aptisummit-codemods",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -863,7 +863,7 @@
         {
           "node_type": "item",
           "title": "DrewML/codemods",
-          "description": null,
+          "description": "DrewML/codemods",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1073,7 +1073,7 @@
         {
           "node_type": "item",
           "title": "bradencanderson/codemods",
-          "description": null,
+          "description": "bradencanderson/codemods",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1094,7 +1094,7 @@
         {
           "node_type": "item",
           "title": "knoopx/codemods",
-          "description": null,
+          "description": "knoopx/codemods",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1171,7 +1171,7 @@
         {
           "node_type": "item",
           "title": "generator2async-codemod",
-          "description": null,
+          "description": "shimohq/generator2async-codemod",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1734,7 +1734,7 @@
             {
               "node_type": "item",
               "title": "codemod-react-proptypes-to-flow",
-              "description": null,
+              "description": "jamiebuilds/codemod-react-proptypes-to-flow",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1877,7 +1877,7 @@
             {
               "node_type": "item",
               "title": "react-hot-loader-codemod",
-              "description": null,
+              "description": "sibelius/react-hot-loader-codemod",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1923,7 +1923,7 @@
             {
               "node_type": "item",
               "title": "react-native-paper-codemod",
-              "description": null,
+              "description": "callstack/react-native-paper-codemod",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2301,7 +2301,7 @@
             {
               "node_type": "item",
               "title": "ember-cli-mirage-faker-codemod",
-              "description": null,
+              "description": "caseywatts/ember-cli-mirage-faker-codemod",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2892,11 +2892,11 @@
                 "id": 23083156,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-02T13:22:13Z",
-                "open_issues": 1472,
+                "last_commit": "2026-10-03T00:49:46Z",
+                "open_issues": 1473,
                 "owner": "mui",
                 "repo": "material-ui",
-                "stars": 99125,
+                "stars": 99124,
                 "topics": [
                   "design-system",
                   "material-design",
@@ -3158,7 +3158,7 @@
         {
           "node_type": "item",
           "title": "civicsource/codemod",
-          "description": null,
+          "description": "civicsource/codemod",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3547,7 +3547,7 @@
         {
           "node_type": "item",
           "title": "mithril-codemods",
-          "description": null,
+          "description": "MithrilJS/mithril-codemods",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -3996,7 +3996,7 @@
         {
           "node_type": "item",
           "title": "awesome-jscodeshift",
-          "description": null,
+          "description": "sejoker/awesome-jscodeshift",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4017,7 +4017,7 @@
         {
           "node_type": "item",
           "title": "awesome-ast",
-          "description": null,
+          "description": "cowchimp/awesome-ast",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4040,7 +4040,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T19:32:36.122Z",
+    "last_updated": "2026-10-03T04:40:36.979Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of codemods for various languages, libraries and frameworks",

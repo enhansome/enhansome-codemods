@@ -15,7 +15,7 @@
             "id": 68468109,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-04T13:26:23Z",
+            "last_commit": "2026-10-05T18:16:56Z",
             "open_issues": 38,
             "owner": "skovhus",
             "repo": "jest-codemods",
@@ -72,7 +72,7 @@
             "open_issues": 47,
             "owner": "hypermod-io",
             "repo": "hypermod-community",
-            "stars": 151,
+            "stars": 150,
             "topics": [
               "cli",
               "codemod",
@@ -1624,7 +1624,7 @@
                 "open_issues": 57,
                 "owner": "reactjs",
                 "repo": "react-codemod",
-                "stars": 4406,
+                "stars": 4405,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:42:24.872Z"
@@ -2791,11 +2791,11 @@
                 "id": 159849469,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-04T10:38:34Z",
+                "last_commit": "2026-10-04T20:55:12Z",
                 "open_issues": 0,
                 "owner": "coderaiser",
                 "repo": "putout",
-                "stars": 796,
+                "stars": 795,
                 "topics": [
                   "ast",
                   "babel",
@@ -2892,11 +2892,11 @@
                 "id": 23083156,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-04T08:14:32Z",
-                "open_issues": 1480,
+                "last_commit": "2026-10-05T16:24:26Z",
+                "open_issues": 1468,
                 "owner": "mui",
                 "repo": "material-ui",
-                "stars": 99125,
+                "stars": 99130,
                 "topics": [
                   "design-system",
                   "material-design",
@@ -3293,7 +3293,7 @@
             "id": 261884067,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-03T10:52:38Z",
+            "last_commit": "2026-10-05T06:13:59Z",
             "open_issues": 8,
             "owner": "browniebroke",
             "repo": "django-codemod",
@@ -4040,7 +4040,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T18:23:34.344Z",
+    "last_updated": "2026-10-05T21:40:24.870Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of codemods for various languages, libraries and frameworks",

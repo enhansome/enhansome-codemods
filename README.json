@@ -72,7 +72,7 @@
             "open_issues": 47,
             "owner": "hypermod-io",
             "repo": "hypermod-community",
-            "stars": 150,
+            "stars": 151,
             "topics": [
               "cli",
               "codemod",
@@ -2795,7 +2795,7 @@
                 "open_issues": 0,
                 "owner": "coderaiser",
                 "repo": "putout",
-                "stars": 795,
+                "stars": 796,
                 "topics": [
                   "ast",
                   "babel",
@@ -2892,11 +2892,11 @@
                 "id": 23083156,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-06T10:49:43Z",
-                "open_issues": 1471,
+                "last_commit": "2026-10-06T19:09:03Z",
+                "open_issues": 1479,
                 "owner": "mui",
                 "repo": "material-ui",
-                "stars": 99134,
+                "stars": 99135,
                 "topics": [
                   "design-system",
                   "material-design",
@@ -3267,7 +3267,7 @@
             "open_issues": 10,
             "owner": "sapegin",
             "repo": "mrm",
-            "stars": 1647,
+            "stars": 1646,
             "topics": [
               "cli",
               "codemod",
@@ -4040,7 +4040,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:54:48.501Z",
+    "last_updated": "2026-10-06T19:51:16.528Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of codemods for various languages, libraries and frameworks",
@@ -4052,7 +4052,7 @@
       "open_issues": 2,
       "owner": "rajasegar",
       "repo": "awesome-codemods",
-      "stars": 223,
+      "stars": 222,
       "topics": [
         "awesome",
         "awesome-list",

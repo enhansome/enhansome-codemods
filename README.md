@@ -192,7 +192,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before contributing.
 
 ### material-ui
 
-* [@mui/codemod](https://github.com/mui/material-ui/tree/master/packages/mui-codemod) ⭐ 99,145 | 🐛 1,466 | 🌐 JavaScript | 📅 2026-10-08 - A collection of codemod scripts based for use with jscodeshift that help update MUI APIs.
+* [@mui/codemod](https://github.com/mui/material-ui/tree/master/packages/mui-codemod) ⭐ 99,151 | 🐛 1,460 | 🌐 JavaScript | 📅 2026-10-09 - A collection of codemod scripts based for use with jscodeshift that help update MUI APIs.
 
 ### ant-design
 
@@ -262,4 +262,4 @@ This is the list of codemods used by a particular organization for their code tr
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._

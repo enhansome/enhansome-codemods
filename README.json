@@ -15,7 +15,7 @@
             "id": 68468109,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-05T18:16:56Z",
+            "last_commit": "2026-10-11T01:10:05Z",
             "open_issues": 38,
             "owner": "skovhus",
             "repo": "jest-codemods",
@@ -2892,11 +2892,11 @@
                 "id": 23083156,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-10T11:17:53Z",
-                "open_issues": 1463,
+                "last_commit": "2026-10-11T14:22:52Z",
+                "open_issues": 1478,
                 "owner": "mui",
                 "repo": "material-ui",
-                "stars": 99160,
+                "stars": 99192,
                 "topics": [
                   "design-system",
                   "material-design",
@@ -4040,7 +4040,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T18:53:33.290Z",
+    "last_updated": "2026-10-11T19:11:58.343Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of codemods for various languages, libraries and frameworks",

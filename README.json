@@ -1624,7 +1624,7 @@
                 "open_issues": 57,
                 "owner": "reactjs",
                 "repo": "react-codemod",
-                "stars": 4405,
+                "stars": 4404,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:42:24.872Z"
@@ -2795,7 +2795,7 @@
                 "open_issues": 0,
                 "owner": "coderaiser",
                 "repo": "putout",
-                "stars": 796,
+                "stars": 797,
                 "topics": [
                   "ast",
                   "babel",
@@ -2892,11 +2892,11 @@
                 "id": 23083156,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-11T14:22:52Z",
-                "open_issues": 1478,
+                "last_commit": "2026-10-12T18:27:53Z",
+                "open_issues": 1516,
                 "owner": "mui",
                 "repo": "material-ui",
-                "stars": 99192,
+                "stars": 99195,
                 "topics": [
                   "design-system",
                   "material-design",
@@ -3293,7 +3293,7 @@
             "id": 261884067,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-10T00:25:07Z",
+            "last_commit": "2026-10-12T04:53:50Z",
             "open_issues": 9,
             "owner": "browniebroke",
             "repo": "django-codemod",
@@ -4040,7 +4040,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T19:11:58.343Z",
+    "last_updated": "2026-10-12T22:15:51.784Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of codemods for various languages, libraries and frameworks",

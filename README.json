@@ -15,7 +15,7 @@
             "id": 68468109,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-11T01:10:05Z",
+            "last_commit": "2026-10-13T11:32:03Z",
             "open_issues": 38,
             "owner": "skovhus",
             "repo": "jest-codemods",
@@ -1624,7 +1624,7 @@
                 "open_issues": 57,
                 "owner": "reactjs",
                 "repo": "react-codemod",
-                "stars": 4404,
+                "stars": 4406,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:42:24.872Z"
@@ -1696,7 +1696,7 @@
                 "open_issues": 1,
                 "owner": "reactjs",
                 "repo": "rackt-codemod",
-                "stars": 38,
+                "stars": 39,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:42:24.872Z"
@@ -2892,11 +2892,11 @@
                 "id": 23083156,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-12T18:27:53Z",
-                "open_issues": 1516,
+                "last_commit": "2026-10-13T16:40:28Z",
+                "open_issues": 1511,
                 "owner": "mui",
                 "repo": "material-ui",
-                "stars": 99195,
+                "stars": 99199,
                 "topics": [
                   "design-system",
                   "material-design",
@@ -3293,7 +3293,7 @@
             "id": 261884067,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-12T04:53:50Z",
+            "last_commit": "2026-10-13T04:48:29Z",
             "open_issues": 9,
             "owner": "browniebroke",
             "repo": "django-codemod",
@@ -4040,7 +4040,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T22:15:51.784Z",
+    "last_updated": "2026-10-13T20:22:52.569Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of codemods for various languages, libraries and frameworks",

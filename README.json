@@ -1484,7 +1484,7 @@
             "license": "MIT",
             "last_commit": "2019-03-20T17:18:50Z",
             "open_issues": 0,
-            "owner": "jmdejno",
+            "owner": "jedejno",
             "repo": "codemod-cli-ts",
             "stars": 1,
             "topics": []
@@ -1624,7 +1624,7 @@
                 "open_issues": 57,
                 "owner": "reactjs",
                 "repo": "react-codemod",
-                "stars": 4406,
+                "stars": 4405,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:42:24.872Z"
@@ -1671,7 +1671,7 @@
                 "open_issues": 16,
                 "owner": "lucasbento",
                 "repo": "rn-update-deprecated-modules",
-                "stars": 72,
+                "stars": 73,
                 "topics": [
                   "cli",
                   "codemod",
@@ -1911,7 +1911,7 @@
                 "id": 143073092,
                 "language": "Dart",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-29T22:51:04Z",
+                "last_commit": "2026-10-21T16:47:41Z",
                 "open_issues": 13,
                 "owner": "Workiva",
                 "repo": "over_react_codemod",
@@ -2333,7 +2333,7 @@
                 "license": "MIT",
                 "last_commit": "2019-04-01T17:51:31Z",
                 "open_issues": 0,
-                "owner": "jmdejno",
+                "owner": "jedejno",
                 "repo": "lil-codemods",
                 "stars": 1,
                 "topics": []
@@ -2375,7 +2375,7 @@
                 "license": null,
                 "last_commit": "2019-03-18T15:47:57Z",
                 "open_issues": 0,
-                "owner": "jmdejno",
+                "owner": "jedejno",
                 "repo": "ember-codemods",
                 "stars": 0,
                 "topics": []
@@ -2892,11 +2892,11 @@
                 "id": 23083156,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-20T18:25:54Z",
-                "open_issues": 1517,
+                "last_commit": "2026-10-21T17:18:22Z",
+                "open_issues": 1520,
                 "owner": "mui",
                 "repo": "material-ui",
-                "stars": 99254,
+                "stars": 99257,
                 "topics": [
                   "design-system",
                   "material-design",
@@ -3293,8 +3293,8 @@
             "id": 261884067,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-19T05:04:03Z",
-            "open_issues": 9,
+            "last_commit": "2026-10-21T01:17:42Z",
+            "open_issues": 10,
             "owner": "browniebroke",
             "repo": "django-codemod",
             "stars": 189,
@@ -4040,7 +4040,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T18:45:31.206Z",
+    "last_updated": "2026-10-21T18:57:33.204Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of codemods for various languages, libraries and frameworks",

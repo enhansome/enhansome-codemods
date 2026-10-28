@@ -19,7 +19,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before contributing.
 
 ## JavaScript
 
-* [jest-codemods](https://github.com/skovhus/jest-codemods) ⭐ 887 | 🐛 32 | 🌐 TypeScript | 📅 2026-10-26 - Codemods for migrating to Jest .
+* [jest-codemods](https://github.com/skovhus/jest-codemods) ⭐ 887 | 🐛 32 | 🌐 TypeScript | 📅 2026-10-28 - Codemods for migrating to Jest .
 * [5to6-codemod](https://github.com/5to6/5to6-codemod) ⭐ 299 | 🐛 26 | 🌐 JavaScript | 📅 2023-01-03 - A collection of codemods that allow you to transform your js code from ES5 to ES6.
 * [codeshift-community](https://github.com/CodeshiftCommunity/CodeshiftCommunity) ⭐ 151 | 🐛 47 | 🌐 TypeScript | 📅 2026-04-18 - Community-owned global registry and documentation hub for codemods. Write & run codemodes, share them with your friends.
 * [relative-to-alias](https://github.com/s-yadav/relative-to-alias) ⭐ 135 | 🐛 15 | 🌐 JavaScript | 📅 2023-01-03 - A codemod to do large-scale refactor of your relative path imports to alias.
@@ -192,7 +192,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before contributing.
 
 ### material-ui
 
-* [@mui/codemod](https://github.com/mui/material-ui/tree/master/packages/mui-codemod) ⭐ 99,279 | 🐛 1,532 | 🌐 JavaScript | 📅 2026-10-27 - A collection of codemod scripts based for use with jscodeshift that help update MUI APIs.
+* [@mui/codemod](https://github.com/mui/material-ui/tree/master/packages/mui-codemod) ⭐ 99,284 | 🐛 1,535 | 🌐 JavaScript | 📅 2026-10-28 - A collection of codemod scripts based for use with jscodeshift that help update MUI APIs.
 
 ### ant-design
 
@@ -222,7 +222,7 @@ This is the list of codemods used by a particular organization for their code tr
 ## Misc
 
 * [mrm](https://github.com/sapegin/mrm) ⭐ 1,647 | 🐛 10 | 🌐 JavaScript | 📅 2024-10-30 - Codemods for your project config files.
-* [django-codemod](https://github.com/browniebroke/django-codemod) ⭐ 189 | 🐛 9 | 🌐 Python | 📅 2026-10-27 - A tool to automatically fix Django deprecations.
+* [django-codemod](https://github.com/browniebroke/django-codemod) ⭐ 189 | 🐛 10 | 🌐 Python | 📅 2026-10-28 - A tool to automatically fix Django deprecations.
 * [ratchet](https://github.com/mskelton/ratchet) ⭐ 144 | 🐛 5 | 🌐 TypeScript | 📅 2024-04-07 - Codemod to convert React PropTypes to TypeScript types.
 * [next-codemod](https://github.com/zeit/next-codemod) ⚠️ Archived - Codemod transformations to help upgrade Next.js codebases.
 * [js-codemods](https://github.com/entria/js-codemods) ⭐ 44 | 🐛 0 | 🌐 TypeScript | 📅 2025-05-11 - Node.js/JavaScript codemods used at @entria.
@@ -231,7 +231,7 @@ This is the list of codemods used by a particular organization for their code tr
 * [babel-plugin-glamorous-to-emotion](https://github.com/TejasQ/babel-plugin-glamorous-to-emotion) ⭐ 34 | 🐛 4 | 🌐 JavaScript | 📅 2023-01-04 - A codemod to migrate existing React or Preact codebases from glamorous to emotion.
 * [PHP-Codeshift](https://github.com/Atanamo/PHP-Codeshift) ⭐ 32 | 🐛 0 | 🌐 PHP | 📅 2022-10-23 - A small PHP toolkit for running codemods (code transformations) over multiple PHP files.
 * [webpack-codemods](https://github.com/okonet/webpack-codemods) ⭐ 31 | 🐛 0 | 🌐 JavaScript | 📅 2017-01-27 - JS Codemod to automatically convert webpack config from v1 to v2.
-* [webdriverio/codemod](https://github.com/webdriverio/codemod) ⭐ 28 | 🐛 21 | 🌐 JavaScript | 📅 2026-09-25 - A codemod to transform Protractor into WebdriverIO tests.
+* [webdriverio/codemod](https://github.com/webdriverio/codemod) ⭐ 28 | 🐛 23 | 🌐 JavaScript | 📅 2026-09-25 - A codemod to transform Protractor into WebdriverIO tests.
 * [gen-codemod](https://github.com/noahsug/gen-codemod) ⭐ 22 | 🐛 0 | 🌐 JavaScript | 📅 2018-02-28 - Generate codemods by specifying your starting -> desired JavaScript.
 * [mithril-codemods](https://github.com/MithrilJS/mithril-codemods) ⚠️ Archived
 * [flow-codemod](https://github.com/flowtype/flow-codemod) ⚠️ Archived - Jscodeshift-powered <mithril@0.2.x> to <mithril@1.x> transformations .
@@ -262,4 +262,4 @@ This is the list of codemods used by a particular organization for their code tr
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-28._

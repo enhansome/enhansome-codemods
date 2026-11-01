@@ -139,8 +139,8 @@
             "id": 464663888,
             "language": "TypeScript",
             "license": "MIT-0",
-            "last_commit": "2026-10-29T07:58:19Z",
-            "open_issues": 38,
+            "last_commit": "2026-11-01T04:30:52Z",
+            "open_issues": 37,
             "owner": "aws",
             "repo": "aws-sdk-js-codemod",
             "stars": 89,
@@ -2791,7 +2791,7 @@
                 "id": 159849469,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-29T08:59:29Z",
+                "last_commit": "2026-11-01T13:09:30Z",
                 "open_issues": 0,
                 "owner": "coderaiser",
                 "repo": "putout",
@@ -2892,11 +2892,11 @@
                 "id": 23083156,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-31T16:13:12Z",
-                "open_issues": 1522,
+                "last_commit": "2026-11-01T18:17:54Z",
+                "open_issues": 1536,
                 "owner": "mui",
                 "repo": "material-ui",
-                "stars": 99287,
+                "stars": 99292,
                 "topics": [
                   "design-system",
                   "material-design",
@@ -4040,7 +4040,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T18:46:47.109Z",
+    "last_updated": "2026-11-01T19:13:04.690Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of codemods for various languages, libraries and frameworks",

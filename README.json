@@ -72,7 +72,7 @@
             "open_issues": 47,
             "owner": "hypermod-io",
             "repo": "hypermod-community",
-            "stars": 151,
+            "stars": 150,
             "topics": [
               "cli",
               "codemod",
@@ -1624,7 +1624,7 @@
                 "open_issues": 57,
                 "owner": "reactjs",
                 "repo": "react-codemod",
-                "stars": 4406,
+                "stars": 4405,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:42:24.872Z"
@@ -2791,7 +2791,7 @@
                 "id": 159849469,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-11-01T13:09:30Z",
+                "last_commit": "2026-11-03T20:22:47Z",
                 "open_issues": 0,
                 "owner": "coderaiser",
                 "repo": "putout",
@@ -2892,11 +2892,11 @@
                 "id": 23083156,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-11-02T21:14:46Z",
-                "open_issues": 1533,
+                "last_commit": "2026-11-03T14:21:51Z",
+                "open_issues": 1528,
                 "owner": "mui",
                 "repo": "material-ui",
-                "stars": 99300,
+                "stars": 99297,
                 "topics": [
                   "design-system",
                   "material-design",
@@ -3293,7 +3293,7 @@
             "id": 261884067,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-02T06:16:04Z",
+            "last_commit": "2026-11-03T09:51:41Z",
             "open_issues": 9,
             "owner": "browniebroke",
             "repo": "django-codemod",
@@ -4040,7 +4040,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T22:54:27.636Z",
+    "last_updated": "2026-11-03T20:39:35.752Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of codemods for various languages, libraries and frameworks",

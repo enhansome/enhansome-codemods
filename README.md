@@ -19,12 +19,12 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before contributing.
 
 ## JavaScript
 
-* [jest-codemods](https://github.com/skovhus/jest-codemods) ⭐ 887 | 🐛 31 | 🌐 TypeScript | 📅 2026-10-31 - Codemods for migrating to Jest .
+* [jest-codemods](https://github.com/skovhus/jest-codemods) ⭐ 888 | 🐛 31 | 🌐 TypeScript | 📅 2026-11-16 - Codemods for migrating to Jest .
 * [5to6-codemod](https://github.com/5to6/5to6-codemod) ⭐ 299 | 🐛 26 | 🌐 JavaScript | 📅 2023-01-03 - A collection of codemods that allow you to transform your js code from ES5 to ES6.
 * [codeshift-community](https://github.com/CodeshiftCommunity/CodeshiftCommunity) ⭐ 150 | 🐛 47 | 🌐 TypeScript | 📅 2026-04-18 - Community-owned global registry and documentation hub for codemods. Write & run codemodes, share them with your friends.
 * [relative-to-alias](https://github.com/s-yadav/relative-to-alias) ⭐ 135 | 🐛 15 | 🌐 JavaScript | 📅 2023-01-03 - A codemod to do large-scale refactor of your relative path imports to alias.
 * [js-transforms](https://github.com/jhgg/js-transforms) ⭐ 102 | 🐛 0 | 🌐 JavaScript | 📅 2015-10-22 - Some documented codemod experiments to help you learn.
-* [aws-sdk-js-codemod](https://github.com/awslabs/aws-sdk-js-codemod) ⭐ 89 | 🐛 38 | 🌐 TypeScript | 📅 2026-11-01 - Codemod scripts to update AWS SDK for JavaScript APIs.
+* [aws-sdk-js-codemod](https://github.com/awslabs/aws-sdk-js-codemod) ⭐ 89 | 🐛 39 | 🌐 TypeScript | 📅 2026-11-01 - Codemod scripts to update AWS SDK for JavaScript APIs.
 * [refactoring-codemods](https://github.com/jurassix/refactoring-codemods) ⭐ 80 | 🐛 5 | 🌐 JavaScript | 📅 2018-05-09 - Refactoring support for JavaScript via jscodeshift codemods.
 * [JamieMason/codemods](https://github.com/JamieMason/codemods) ⭐ 64 | 🐛 2 | 🌐 JavaScript | 📅 2025-09-17 - A collection of transforms for use with JSCodeshift.
 * [transform-imports](https://github.com/suchipi/transform-imports) ⭐ 53 | 🐛 9 | 🌐 JavaScript | 📅 2026-09-13 - Tools that make it easy to codemod imports/requires in your JS.
@@ -132,7 +132,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before contributing.
 
 ### Ember.js
 
-* [ember-watson](https://github.com/abuiles/ember-watson) ⭐ 302 | 🐛 30 | 🌐 JavaScript | 📅 2022-12-30 - An Ember.js codemod to make upgrades automatic.
+* [ember-watson](https://github.com/abuiles/ember-watson) ⭐ 301 | 🐛 30 | 🌐 JavaScript | 📅 2022-12-30 - An Ember.js codemod to make upgrades automatic.
 * [ember-i18n-to-intl-migrator](https://github.com/DockYard/ember-i18n-to-intl-migrator) ⭐ 21 | 🐛 3 | 🌐 JavaScript | 📅 2020-01-22 - Migrate ember-i18n to ember-intl .
 * [react-destructuring-assignment-codemod](https://github.com/thibaudcolas/react-destructuring-assignment-codemod) ⭐ 11 | 🐛 1 | 🌐 JavaScript | 📅 2019-02-02 - A WIP jscodeshift codemod to destructure assignments of props, state, and context.
 * [test-selectors-codemod](https://github.com/lorcan/test-selectors-codemod) ⭐ 7 | 🐛 0 | 🌐 JavaScript | 📅 2018-05-29 - A codemode for fixing the ember-test-selectors testSelector helper deprecation.
@@ -186,13 +186,13 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before contributing.
 
 ### react-router
 
-* [@putout/plugin-react-router](https://github.com/coderaiser/putout/tree/master/packages/plugin-react-router) ⭐ 804 | 🐛 0 | 🌐 JavaScript | 📅 2026-11-14 - Putout plugin adds ability to migrate to latest version of react router.
+* [@putout/plugin-react-router](https://github.com/coderaiser/putout/tree/master/packages/plugin-react-router) ⭐ 804 | 🐛 0 | 🌐 JavaScript | 📅 2026-11-15 - Putout plugin adds ability to migrate to latest version of react router.
 * [react-router-v6-codemods](https://github.com/rajasegar/react-router-v6-codemods) ⭐ 10 | 🐛 2 | 🌐 JavaScript | 📅 2023-01-09 - Codemods for migrating react-router from v5 to v6.
 * [react-router-v4-codemods](https://github.com/rajasegar/react-router-v4-codemods) ⭐ 3 | 🐛 0 | 🌐 JavaScript | 📅 2023-01-08 - Codemods for migrating react-router from v3 to v4.
 
 ### material-ui
 
-* [@mui/codemod](https://github.com/mui/material-ui/tree/master/packages/mui-codemod) ⭐ 99,341 | 🐛 1,524 | 🌐 JavaScript | 📅 2026-11-15 - A collection of codemod scripts based for use with jscodeshift that help update MUI APIs.
+* [@mui/codemod](https://github.com/mui/material-ui/tree/master/packages/mui-codemod) ⭐ 99,347 | 🐛 1,527 | 🌐 JavaScript | 📅 2026-11-16 - A collection of codemod scripts based for use with jscodeshift that help update MUI APIs.
 
 ### ant-design
 
@@ -222,7 +222,7 @@ This is the list of codemods used by a particular organization for their code tr
 ## Misc
 
 * [mrm](https://github.com/sapegin/mrm) ⭐ 1,647 | 🐛 10 | 🌐 JavaScript | 📅 2024-10-30 - Codemods for your project config files.
-* [django-codemod](https://github.com/browniebroke/django-codemod) ⭐ 190 | 🐛 7 | 🌐 Python | 📅 2026-11-14 - A tool to automatically fix Django deprecations.
+* [django-codemod](https://github.com/browniebroke/django-codemod) ⭐ 190 | 🐛 7 | 🌐 Python | 📅 2026-11-16 - A tool to automatically fix Django deprecations.
 * [ratchet](https://github.com/mskelton/ratchet) ⭐ 144 | 🐛 5 | 🌐 TypeScript | 📅 2024-04-07 - Codemod to convert React PropTypes to TypeScript types.
 * [next-codemod](https://github.com/zeit/next-codemod) ⚠️ Archived - Codemod transformations to help upgrade Next.js codebases.
 * [js-codemods](https://github.com/entria/js-codemods) ⭐ 44 | 🐛 0 | 🌐 TypeScript | 📅 2025-05-11 - Node.js/JavaScript codemods used at @entria.
@@ -262,4 +262,4 @@ This is the list of codemods used by a particular organization for their code tr
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._

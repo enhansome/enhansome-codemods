@@ -107,7 +107,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before contributing.
 ### React.js
 
 * [react-codemod](https://github.com/reactjs/react-codemod) ⭐ 4,405 | 🐛 57 | 🌐 JavaScript | 📅 2026-02-22 - React codemod scripts to update React APIs.
-* [ast-18n](https://github.com/sibelius/ast-i18n) ⭐ 231 | 🐛 9 | 🌐 TypeScript | 📅 2024-06-18 - Easily migrate your existing React codebase to use i18n.
+* [ast-18n](https://github.com/sibelius/ast-i18n) ⭐ 232 | 🐛 9 | 🌐 TypeScript | 📅 2024-06-18 - Easily migrate your existing React codebase to use i18n.
 * [rn-update-deprecated-modules](https://github.com/lucasbento/rn-update-deprecated-modules) ⭐ 73 | 🐛 16 | 🌐 JavaScript | 📅 2023-01-03 - Codemod to update import declarations as per react-native > 0.59.x deprecations.
 * [rackt-codemod](https://github.com/reactjs/rackt-codemod) ⚠️ Archived - Codemod scripts for Rackt libraries.
 * [babel-plugin-hyperscript-to-jsx](https://github.com/RIP21/babel-plugin-hyperscript-to-jsx) ⭐ 20 | 🐛 14 | 🌐 JavaScript | 📅 2023-01-04 - This plugin transforms react-hyperscript into JSX. Intended to be used as codemod.
@@ -192,7 +192,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before contributing.
 
 ### material-ui
 
-* [@mui/codemod](https://github.com/mui/material-ui/tree/master/packages/mui-codemod) ⭐ 99,366 | 🐛 1,518 | 🌐 JavaScript | 📅 2026-11-19 - A collection of codemod scripts based for use with jscodeshift that help update MUI APIs.
+* [@mui/codemod](https://github.com/mui/material-ui/tree/master/packages/mui-codemod) ⭐ 99,374 | 🐛 1,516 | 🌐 JavaScript | 📅 2026-11-20 - A collection of codemod scripts based for use with jscodeshift that help update MUI APIs.
 
 ### ant-design
 
@@ -222,13 +222,13 @@ This is the list of codemods used by a particular organization for their code tr
 ## Misc
 
 * [mrm](https://github.com/sapegin/mrm) ⭐ 1,646 | 🐛 10 | 🌐 JavaScript | 📅 2024-10-30 - Codemods for your project config files.
-* [django-codemod](https://github.com/browniebroke/django-codemod) ⭐ 190 | 🐛 8 | 🌐 Python | 📅 2026-11-19 - A tool to automatically fix Django deprecations.
+* [django-codemod](https://github.com/browniebroke/django-codemod) ⭐ 190 | 🐛 7 | 🌐 Python | 📅 2026-11-20 - A tool to automatically fix Django deprecations.
 * [ratchet](https://github.com/mskelton/ratchet) ⭐ 144 | 🐛 5 | 🌐 TypeScript | 📅 2024-04-07 - Codemod to convert React PropTypes to TypeScript types.
 * [next-codemod](https://github.com/zeit/next-codemod) ⚠️ Archived - Codemod transformations to help upgrade Next.js codebases.
 * [js-codemods](https://github.com/entria/js-codemods) ⭐ 44 | 🐛 0 | 🌐 TypeScript | 📅 2025-05-11 - Node.js/JavaScript codemods used at @entria.
 * [strapi/codemods](https://github.com/strapi/codemods) ⚠️ Archived - CLI to help you migrate your Strapi applications & plugins from v3 to v4.
 * [graphql2ts](https://github.com/sibelius/graphql2ts) ⭐ 41 | 🐛 20 | 🌐 TypeScript | 📅 2023-01-04 - Transform .graphql to graphql-js typescript.
-* [babel-plugin-glamorous-to-emotion](https://github.com/TejasQ/babel-plugin-glamorous-to-emotion) ⭐ 34 | 🐛 4 | 🌐 JavaScript | 📅 2023-01-04 - A codemod to migrate existing React or Preact codebases from glamorous to emotion.
+* [babel-plugin-glamorous-to-emotion](https://github.com/TejasQ/babel-plugin-glamorous-to-emotion) ⭐ 35 | 🐛 4 | 🌐 JavaScript | 📅 2023-01-04 - A codemod to migrate existing React or Preact codebases from glamorous to emotion.
 * [PHP-Codeshift](https://github.com/Atanamo/PHP-Codeshift) ⭐ 32 | 🐛 0 | 🌐 PHP | 📅 2022-10-23 - A small PHP toolkit for running codemods (code transformations) over multiple PHP files.
 * [webpack-codemods](https://github.com/okonet/webpack-codemods) ⭐ 31 | 🐛 0 | 🌐 JavaScript | 📅 2017-01-27 - JS Codemod to automatically convert webpack config from v1 to v2.
 * [webdriverio/codemod](https://github.com/webdriverio/codemod) ⭐ 28 | 🐛 23 | 🌐 JavaScript | 📅 2026-09-25 - A codemod to transform Protractor into WebdriverIO tests.
@@ -262,4 +262,4 @@ This is the list of codemods used by a particular organization for their code tr
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._

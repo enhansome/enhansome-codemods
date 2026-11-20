@@ -1645,7 +1645,7 @@
                 "open_issues": 9,
                 "owner": "sibelius",
                 "repo": "ast-i18n",
-                "stars": 231,
+                "stars": 232,
                 "topics": [
                   "ast",
                   "codemod",
@@ -2892,11 +2892,11 @@
                 "id": 23083156,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-11-19T19:12:11Z",
-                "open_issues": 1518,
+                "last_commit": "2026-11-20T16:21:14Z",
+                "open_issues": 1516,
                 "owner": "mui",
                 "repo": "material-ui",
-                "stars": 99366,
+                "stars": 99374,
                 "topics": [
                   "design-system",
                   "material-design",
@@ -3293,8 +3293,8 @@
             "id": 261884067,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-19T20:34:45Z",
-            "open_issues": 8,
+            "last_commit": "2026-11-20T10:02:13Z",
+            "open_issues": 7,
             "owner": "browniebroke",
             "repo": "django-codemod",
             "stars": 190,
@@ -3448,7 +3448,7 @@
             "open_issues": 4,
             "owner": "TejasQ",
             "repo": "babel-plugin-glamorous-to-emotion",
-            "stars": 34,
+            "stars": 35,
             "topics": []
           },
           "first_seen": "2026-08-28T23:42:24.872Z"
@@ -4040,7 +4040,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T22:28:09.966Z",
+    "last_updated": "2026-11-20T21:58:55.584Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of codemods for various languages, libraries and frameworks",
